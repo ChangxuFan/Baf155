@@ -1,0 +1,592 @@
+nohup: ignoring input
+Setting default number of Parallel threads to 3.
+2024-06-13 10:52:31 : adding LSI
+Checking Inputs...
+ArchR logging to : ArchRLogs/ArchR-addIterativeLSI-36b21287bfee-Date-2024-06-13_Time-10-52-31.log
+If there is an issue, please report to github with logFile!
+2024-06-13 10:52:35 : adding LSI
+Checking Inputs...
+ArchR logging to : ArchRLogs/ArchR-addIterativeLSI-36b41287bfee-Date-2024-06-13_Time-10-52-35.log
+If there is an issue, please report to github with logFile!
+2024-06-13 10:52:36 : adding LSI
+Checking Inputs...
+ArchR logging to : ArchRLogs/ArchR-addIterativeLSI-36b51287bfee-Date-2024-06-13_Time-10-52-36.log
+If there is an issue, please report to github with logFile!
+2024-06-13 10:52:40 : adding LSI
+Checking Inputs...
+ArchR logging to : ArchRLogs/ArchR-addIterativeLSI-36b11287bfee-Date-2024-06-13_Time-10-52-40.log
+If there is an issue, please report to github with logFile!
+2024-06-13 10:52:48 : adding LSI
+Checking Inputs...
+ArchR logging to : ArchRLogs/ArchR-addIterativeLSI-36b31287bfee-Date-2024-06-13_Time-10-52-48.log
+If there is an issue, please report to github with logFile!
+2024-06-13 10:52:50 : adding LSI
+Checking Inputs...
+ArchR logging to : ArchRLogs/ArchR-addIterativeLSI-36b01287bfee-Date-2024-06-13_Time-10-52-50.log
+If there is an issue, please report to github with logFile!
+2024-06-13 10:52:50 : Computing Total Across All Features, 0.108 mins elapsed.
+2024-06-13 10:52:51 : Computing Total Across All Features, 0.112 mins elapsed.
+2024-06-13 10:52:51 : Computing Total Across All Features, 0.116 mins elapsed.
+2024-06-13 10:52:51 : Computing Total Across All Features, 0.119 mins elapsed.
+2024-06-13 10:52:57 : Computing Total Across All Features, 0.124 mins elapsed.
+2024-06-13 10:52:58 : Computing Top Features, 0.24 mins elapsed.
+2024-06-13 10:52:58 : Computing Top Features, 0.243 mins elapsed.
+2024-06-13 10:52:59 : Computing Total Across All Features, 0.119 mins elapsed.
+2024-06-13 10:52:59 : Computing Top Features, 0.259 mins elapsed.
+2024-06-13 10:53:00 : Computing Top Features, 0.265 mins elapsed.
+###########
+2024-06-13 10:53:00 : Running LSI (1 of 2) on Top Features, 0.27 mins elapsed.
+###########
+###########
+2024-06-13 10:53:00 : Running LSI (1 of 2) on Top Features, 0.27 mins elapsed.
+###########
+2024-06-13 10:53:00 : Creating Partial Matrix, 0.27 mins elapsed.
+2024-06-13 10:53:00 : Sampling Cells (N = 10000) for Estimated LSI, 0.272 mins elapsed.
+2024-06-13 10:53:00 : Creating Sampled Partial Matrix, 0.272 mins elapsed.
+###########
+2024-06-13 10:53:01 : Running LSI (1 of 2) on Top Features, 0.291 mins elapsed.
+###########
+2024-06-13 10:53:01 : Creating Partial Matrix, 0.292 mins elapsed.
+###########
+2024-06-13 10:53:02 : Running LSI (1 of 2) on Top Features, 0.297 mins elapsed.
+###########
+2024-06-13 10:53:02 : Sampling Cells (N = 10000) for Estimated LSI, 0.298 mins elapsed.
+2024-06-13 10:53:02 : Creating Sampled Partial Matrix, 0.299 mins elapsed.
+2024-06-13 10:53:03 : Computing Top Features, 0.218 mins elapsed.
+###########
+2024-06-13 10:53:04 : Running LSI (1 of 2) on Top Features, 0.244 mins elapsed.
+###########
+2024-06-13 10:53:04 : Sampling Cells (N = 10000) for Estimated LSI, 0.247 mins elapsed.
+2024-06-13 10:53:04 : Creating Sampled Partial Matrix, 0.248 mins elapsed.
+2024-06-13 10:53:07 : Computing Top Features, 0.256 mins elapsed.
+###########
+2024-06-13 10:53:09 : Running LSI (1 of 2) on Top Features, 0.288 mins elapsed.
+###########
+2024-06-13 10:53:09 : Sampling Cells (N = 10000) for Estimated LSI, 0.29 mins elapsed.
+2024-06-13 10:53:09 : Creating Sampled Partial Matrix, 0.29 mins elapsed.
+2024-06-13 10:54:35 : Computing Estimated LSI (projectAll = FALSE), 1.754 mins elapsed.
+2024-06-13 10:54:51 : Computing LSI, 2.126 mins elapsed.
+2024-06-13 10:54:59 : Computing Estimated LSI (projectAll = FALSE), 2.248 mins elapsed.
+2024-06-13 10:55:06 : Computing Estimated LSI (projectAll = FALSE), 2.234 mins elapsed.
+2024-06-13 10:55:12 : Computing LSI, 2.476 mins elapsed.
+2024-06-13 10:55:17 : Computing Estimated LSI (projectAll = FALSE), 2.545 mins elapsed.
+Filtering 1 dims correlated > 0.75 to log10(depth + 1)
+2024-06-13 10:55:29 : Identifying Clusters, 2.75 mins elapsed.
+Filtering 1 dims correlated > 0.75 to log10(depth + 1)
+2024-06-13 10:55:32 : Identifying Clusters, 2.71 mins elapsed.
+2024-06-13 10:55:33 : Identifying Clusters, 2.821 mins elapsed.
+2024-06-13 10:55:45 : Identifying Clusters, 3.018 mins elapsed.
+2024-06-13 10:55:45 : Identified 7 Clusters, 3.027 mins elapsed.
+2024-06-13 10:55:45 : Saving LSI Iteration, 3.027 mins elapsed.
+2024-06-13 10:55:49 : Identifying Clusters, 3.084 mins elapsed.
+2024-06-13 10:55:50 : Identified 7 Clusters, 3.105 mins elapsed.
+2024-06-13 10:55:50 : Saving LSI Iteration, 3.106 mins elapsed.
+2024-06-13 10:55:50 : Identified 5 Clusters, 3.012 mins elapsed.
+2024-06-13 10:55:50 : Saving LSI Iteration, 3.012 mins elapsed.
+2024-06-13 10:55:53 : Identifying Clusters, 3.026 mins elapsed.
+2024-06-13 10:56:01 : Identified 8 Clusters, 3.285 mins elapsed.
+2024-06-13 10:56:01 : Saving LSI Iteration, 3.286 mins elapsed.
+2024-06-13 10:56:05 : Identified 8 Clusters, 3.354 mins elapsed.
+2024-06-13 10:56:05 : Saving LSI Iteration, 3.355 mins elapsed.
+2024-06-13 10:56:11 : Identified 6 Clusters, 3.313 mins elapsed.
+2024-06-13 10:56:11 : Saving LSI Iteration, 3.314 mins elapsed.
+2024-06-13 10:56:25 : Creating Cluster Matrix on the total Group Features, 3.682 mins elapsed.
+2024-06-13 10:56:28 : Creating Cluster Matrix on the total Group Features, 3.635 mins elapsed.
+2024-06-13 10:56:30 : Creating Cluster Matrix on the total Group Features, 3.772 mins elapsed.
+2024-06-13 10:56:38 : Creating Cluster Matrix on the total Group Features, 3.908 mins elapsed.
+2024-06-13 10:56:43 : Creating Cluster Matrix on the total Group Features, 3.991 mins elapsed.
+2024-06-13 10:56:51 : Creating Cluster Matrix on the total Group Features, 3.995 mins elapsed.
+2024-06-13 10:57:52 : Computing Variable Features, 5.13 mins elapsed.
+###########
+2024-06-13 10:57:52 : Running LSI (2 of 2) on Variable Features, 5.135 mins elapsed.
+###########
+2024-06-13 10:57:52 : Creating Partial Matrix, 5.136 mins elapsed.
+2024-06-13 10:57:54 : Computing Variable Features, 5.071 mins elapsed.
+###########
+2024-06-13 10:57:54 : Running LSI (2 of 2) on Variable Features, 5.076 mins elapsed.
+###########
+2024-06-13 10:57:54 : Creating Partial Matrix, 5.076 mins elapsed.
+2024-06-13 10:58:05 : Computing Variable Features, 5.349 mins elapsed.
+###########
+2024-06-13 10:58:05 : Running LSI (2 of 2) on Variable Features, 5.354 mins elapsed.
+###########
+2024-06-13 10:58:05 : Creating Partial Matrix, 5.355 mins elapsed.
+2024-06-13 10:58:26 : Computing Variable Features, 5.71 mins elapsed.
+###########
+2024-06-13 10:58:27 : Running LSI (2 of 2) on Variable Features, 5.715 mins elapsed.
+###########
+2024-06-13 10:58:27 : Creating Partial Matrix, 5.716 mins elapsed.
+2024-06-13 10:58:33 : Computing Variable Features, 5.681 mins elapsed.
+###########
+2024-06-13 10:58:33 : Running LSI (2 of 2) on Variable Features, 5.687 mins elapsed.
+###########
+2024-06-13 10:58:33 : Creating Partial Matrix, 5.688 mins elapsed.
+2024-06-13 10:58:35 : Computing Variable Features, 5.856 mins elapsed.
+###########
+2024-06-13 10:58:35 : Running LSI (2 of 2) on Variable Features, 5.86 mins elapsed.
+###########
+2024-06-13 10:58:35 : Creating Partial Matrix, 5.86 mins elapsed.
+2024-06-13 10:59:23 : Computing LSI, 6.649 mins elapsed.
+2024-06-13 10:59:39 : Computing LSI, 6.825 mins elapsed.
+2024-06-13 10:59:50 : Computing LSI, 7.104 mins elapsed.
+2024-06-13 10:59:51 : Finished Running IterativeLSI, 7.128 mins elapsed.
+2024-06-13 10:59:51 : adding seurat clusters
+2024-06-13 10:59:52 : adding clusters
+ArchR logging to : ArchRLogs/ArchR-addClusters-36b54fba00d6-Date-2024-06-13_Time-10-59-52.log
+If there is an issue, please report to github with logFile!
+Filtering 1 dims correlated > 0.75 to log10(depth + 1)
+2024-06-13 10:59:55 : Running Seurats FindClusters (Stuart et al. Cell 2019), 0.003 mins elapsed.
+Computing nearest neighbor graph
+Computing SNN
+Modularity Optimizer version 1.3.0 by Ludo Waltman and Nees Jan van Eck
+
+Number of nodes: 9767
+Number of edges: 328078
+
+Running Louvain algorithm...
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Maximum modularity in 10 random starts: 0.8337
+Number of communities: 15
+Elapsed time: 1 seconds
+2024-06-13 11:00:10 : Testing Outlier Clusters, 0.245 mins elapsed.
+2024-06-13 11:00:10 : Assigning Cluster Names to 15 Clusters, 0.245 mins elapsed.
+2024-06-13 11:00:10 : Finished addClusters, 0.247 mins elapsed.
+2024-06-13 11:00:11 : adding umap
+Filtering 1 dims correlated > 0.75 to log10(depth + 1)
+11:00:11 UMAP embedding parameters a = 0.583 b = 1.334
+11:00:11 Read 9767 rows and found 14 numeric columns
+11:00:11 Using Annoy for neighbor search, n_neighbors = 30
+11:00:11 Building Annoy index with metric = cosine, n_trees = 50
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+11:00:13 Writing NN index file to temp file /tmp/RtmpFLC0At/file36b532f5ce02
+11:00:13 Searching Annoy index using 16 threads, search_k = 3000
+11:00:13 Annoy recall = 100%
+11:00:15 Commencing smooth kNN distance calibration using 16 threads
+2024-06-13 11:00:15 : Computing LSI, 7.524 mins elapsed.
+11:00:18 Initializing from normalized Laplacian + noise
+11:00:18 Commencing optimization for 500 epochs, with 404394 positive edges
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+2024-06-13 11:00:18 : Finished Running IterativeLSI, 7.479 mins elapsed.
+2024-06-13 11:00:18 : adding seurat clusters
+*2024-06-13 11:00:18 : adding clusters
+ArchR logging to : ArchRLogs/ArchR-addClusters-36b34fba00d6-Date-2024-06-13_Time-11-00-18.log
+If there is an issue, please report to github with logFile!
+2024-06-13 11:00:18 : Finished Running IterativeLSI, 7.578 mins elapsed.
+2024-06-13 11:00:18 : adding seurat clusters
+2024-06-13 11:00:19 : adding clusters
+ArchR logging to : ArchRLogs/ArchR-addClusters-36b44fba00d6-Date-2024-06-13_Time-11-00-19.log
+If there is an issue, please report to github with logFile!
+*Filtering 1 dims correlated > 0.75 to log10(depth + 1)
+2024-06-13 11:00:19 : Running Seurats FindClusters (Stuart et al. Cell 2019), 0.003 mins elapsed.
+2024-06-13 11:00:19 : Running Seurats FindClusters (Stuart et al. Cell 2019), 0.003 mins elapsed.
+Computing nearest neighbor graph
+*Computing nearest neighbor graph
+**Computing SNN
+**Modularity Optimizer version 1.3.0 by Ludo Waltman and Nees Jan van Eck
+
+Number of nodes: 10401
+Number of edges: 346941
+
+Running Louvain algorithm...
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+*****************************************************|
+Maximum modularity in 10 random starts: 0.8459
+Number of communities: 14
+Elapsed time: 1 seconds
+**2024-06-13 11:00:26 : Computing LSI, 7.702 mins elapsed.
+*Computing SNN
+****Modularity Optimizer version 1.3.0 by Ludo Waltman and Nees Jan van Eck
+
+Number of nodes: 15353
+Number of edges: 410589
+
+Running Louvain algorithm...
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+********************************************************|
+Maximum modularity in 10 random starts: 0.7716
+Number of communities: 11
+Elapsed time: 4 seconds
+*2024-06-13 11:00:34 : Testing Biased Clusters, 0.249 mins elapsed.
+2024-06-13 11:00:34 : Testing Outlier Clusters, 0.251 mins elapsed.
+2024-06-13 11:00:34 : Assigning Cluster Names to 14 Clusters, 0.251 mins elapsed.
+2024-06-13 11:00:34 : Finished addClusters, 0.253 mins elapsed.
+**2024-06-13 11:00:36 : adding umap
+11:00:36 UMAP embedding parameters a = 0.583 b = 1.334
+11:00:36 Read 10401 rows and found 15 numeric columns
+11:00:36 Using Annoy for neighbor search, n_neighbors = 30
+11:00:36 Building Annoy index with metric = cosine, n_trees = 50
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+***************************************************|
+**11:00:38 Writing NN index file to temp file /tmp/RtmpFLC0At/file36b432f5ce02
+11:00:38 Searching Annoy index using 16 threads, search_k = 3000
+*11:00:39 Annoy recall = 100%
+**2024-06-13 11:00:40 : Finished Running IterativeLSI, 7.935 mins elapsed.
+2024-06-13 11:00:40 : adding seurat clusters
+2024-06-13 11:00:40 : adding clusters
+ArchR logging to : ArchRLogs/ArchR-addClusters-36b24fba00d6-Date-2024-06-13_Time-11-00-40.log
+If there is an issue, please report to github with logFile!
+11:00:40 Commencing smooth kNN distance calibration using 16 threads
+*2024-06-13 11:00:41 : Running Seurats FindClusters (Stuart et al. Cell 2019), 0.002 mins elapsed.
+Computing nearest neighbor graph
+**Computing SNN
+11:00:43 Initializing from normalized Laplacian + noise
+*11:00:43 Commencing optimization for 200 epochs, with 420062 positive edges
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+*****Modularity Optimizer version 1.3.0 by Ludo Waltman and Nees Jan van Eck
+
+Number of nodes: 9642
+Number of edges: 313309
+
+Running Louvain algorithm...
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+************2024-06-13 11:00:44 : Computing LSI, 7.877 mins elapsed.
+**********************************************|
+Maximum modularity in 10 random starts: 0.8483
+Number of communities: 18
+Elapsed time: 1 seconds
+********2024-06-13 11:00:47 : Testing Biased Clusters, 0.465 mins elapsed.
+2024-06-13 11:00:47 : Testing Outlier Clusters, 0.467 mins elapsed.
+2024-06-13 11:00:47 : Assigning Cluster Names to 11 Clusters, 0.467 mins elapsed.
+*2024-06-13 11:00:47 : Finished addClusters, 0.468 mins elapsed.
+**********2024-06-13 11:00:49 : adding umap
+Filtering 1 dims correlated > 0.75 to log10(depth + 1)
+11:00:49 UMAP embedding parameters a = 0.583 b = 1.334
+11:00:49 Read 15353 rows and found 14 numeric columns
+11:00:49 Using Annoy for neighbor search, n_neighbors = 30
+11:00:49 Building Annoy index with metric = cosine, n_trees = 50
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+***********************************2024-06-13 11:00:50 : Finished Running IterativeLSI, 8.095 mins elapsed.
+*2024-06-13 11:00:50 : adding seurat clusters
+*****************|
+2024-06-13 11:00:50 : adding clusters
+ArchR logging to : ArchRLogs/ArchR-addClusters-36b14fba00d6-Date-2024-06-13_Time-11-00-50.log
+If there is an issue, please report to github with logFile!
+***2024-06-13 11:00:50 : Running Seurats FindClusters (Stuart et al. Cell 2019), 0.002 mins elapsed.
+*Computing nearest neighbor graph
+****11:00:51 Writing NN index file to temp file /tmp/RtmpFLC0At/file36b332f5ce02
+11:00:51 Searching Annoy index using 16 threads, search_k = 3000
+***Computing SNN
+*11:00:52 Annoy recall = 100%
+*|
+*****11:00:54 Commencing smooth kNN distance calibration using 16 threads
+11:00:54 Optimization finished
+*Modularity Optimizer version 1.3.0 by Ludo Waltman and Nees Jan van Eck
+
+Number of nodes: 10457
+Number of edges: 342342
+
+Running Louvain algorithm...
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+*********************************2024-06-13 11:00:55 : Testing Biased Clusters, 0.234 mins elapsed.
+2024-06-13 11:00:55 : Testing Outlier Clusters, 0.235 mins elapsed.
+*2024-06-13 11:00:55 : Assigning Cluster Names to 18 Clusters, 0.235 mins elapsed.
+*****2024-06-13 11:00:55 : Finished addClusters, 0.236 mins elapsed.
+****************|
+Maximum modularity in 10 random starts: 0.8575
+Number of communities: 17
+Elapsed time: 1 seconds
+**2024-06-13 11:00:56 : plotting
+*11:00:56 Initializing from normalized Laplacian + noise
+**|
+11:00:56 Commencing optimization for 200 epochs, with 672660 positive edges
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+2024-06-13 11:00:57 : adding umap
+11:00:57 UMAP embedding parameters a = 0.583 b = 1.334
+11:00:57 Read 9642 rows and found 15 numeric columns
+11:00:57 Using Annoy for neighbor search, n_neighbors = 30
+11:00:57 Building Annoy index with metric = cosine, n_trees = 50
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+***************************************************|
+***11:00:58 Optimization finished
+11:00:58 Writing NN index file to temp file /tmp/RtmpFLC0At/file36b232f5ce02
+11:00:58 Searching Annoy index using 16 threads, search_k = 3000
+*11:00:59 Annoy recall = 100%
+**[1] "Clusters..C1"
+*[1] "Clusters..C2"
+11:01:00 Commencing smooth kNN distance calibration using 16 threads
+*2024-06-13 11:01:00 : plotting
+[1] "Clusters..C3"
+[1] "Clusters..C4"
+[1] "Clusters..C5"
+*[1] "Clusters..C6"
+[1] "Clusters..C7"
+[1] "Clusters..C8"
+[1] "Clusters..C9"
+*[1] "Clusters..C10"
+[1] "Clusters..C11"
+[1] "Clusters..C12"
+*[1] "Clusters..C13"
+[1] "Clusters..C14"
+*[1] "Clusters..C15"
+11:01:02 Initializing from normalized Laplacian + noise
+*11:01:02 Commencing optimization for 500 epochs, with 390610 positive edges
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+******[1] "Clusters..C1"
+*[1] "Clusters..C2"
+*[1] "Clusters..C3"
+*[1] "Clusters..C4"
+[1] "Clusters..C5"
+*[1] "Clusters..C6"
+*[1] "Clusters..C7"
+[1] "Clusters..C8"
+2024-06-13 11:01:05 : Testing Biased Clusters, 0.249 mins elapsed.
+2024-06-13 11:01:05 : Testing Outlier Clusters, 0.25 mins elapsed.
+2024-06-13 11:01:05 : Assigning Cluster Names to 17 Clusters, 0.25 mins elapsed.
+[1] "Clusters..C9"
+2024-06-13 11:01:05 : Finished addClusters, 0.252 mins elapsed.
+*[1] "Clusters..C10"
+[1] "Clusters..C11"
+*[1] "Clusters..C12"
+*[1] "Clusters..C13"
+[1] "Clusters..C14"
+*****2024-06-13 11:01:07 : adding umap
+11:01:07 UMAP embedding parameters a = 0.583 b = 1.334
+11:01:07 Read 10457 rows and found 15 numeric columns
+11:01:07 Using Annoy for neighbor search, n_neighbors = 30
+11:01:07 Building Annoy index with metric = cosine, n_trees = 50
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+****************************************************|
+*****11:01:09 Writing NN index file to temp file /tmp/RtmpFLC0At/file36b132f5ce02
+11:01:09 Searching Annoy index using 16 threads, search_k = 3000
+*11:01:09 Annoy recall = 100%
+*****[1] "seurat_clusters..0"
+11:01:11 Commencing smooth kNN distance calibration using 16 threads
+*[1] "seurat_clusters..1"
+*[1] "seurat_clusters..2"
+[1] "seurat_clusters..3"
+[1] "seurat_clusters..4"
+*[1] "seurat_clusters..5"
+[1] "seurat_clusters..6"
+*[1] "seurat_clusters..7"
+*[1] "seurat_clusters..8"
+[1] "seurat_clusters..9"
+[1] "seurat_clusters..10"
+*[1] "seurat_clusters..11"
+[1] "seurat_clusters..12"
+******11:01:14 Initializing from normalized Laplacian + noise
+*11:01:14 Commencing optimization for 200 epochs, with 421906 positive edges
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+******[1] "seurat_clusters..0"
+[1] "seurat_clusters..1"
+***[1] "seurat_clusters..2"
+[1] "seurat_clusters..3"
+*[1] "seurat_clusters..4"
+*[1] "seurat_clusters..5"
+*[1] "seurat_clusters..6"
+*[1] "seurat_clusters..7"
+**[1] "seurat_clusters..8"
+[1] "seurat_clusters..9"
+*[1] "seurat_clusters..10"
+**[1] "seurat_clusters..11"
+*[1] "seurat_clusters..12"
+*[1] "seurat_clusters..13"
+*[1] "seurat_clusters..14"
+[1] "seurat_clusters..15"
+***|
+*****11:01:18 Optimization finished
+************2024-06-13 11:01:21 : plotting
+**2024-06-13 11:01:22 : Finished Running IterativeLSI, 8.497 mins elapsed.
+*2024-06-13 11:01:22 : adding seurat clusters
+*2024-06-13 11:01:22 : adding clusters
+ArchR logging to : ArchRLogs/ArchR-addClusters-36b04fba00d6-Date-2024-06-13_Time-11-01-22.log
+If there is an issue, please report to github with logFile!
+**************************2024-06-13 11:01:28 : Running Seurats FindClusters (Stuart et al. Cell 2019), 0.003 mins elapsed.
+**Computing nearest neighbor graph
+*****[1] "Clusters..C1"
+*|
+[1] "Clusters..C2"
+[1] "Clusters..C3"
+*[1] "Clusters..C4"
+[1] "Clusters..C5"
+[1] "Clusters..C6"
+[1] "Clusters..C7"
+*[1] "Clusters..C8"
+11:01:31 Optimization finished
+[1] "Clusters..C9"
+[1] "Clusters..C10"
+[1] "Clusters..C11"
+*Computing SNN
+**2024-06-13 11:01:33 : plotting
+***Modularity Optimizer version 1.3.0 by Ludo Waltman and Nees Jan van Eck
+
+Number of nodes: 15205
+Number of edges: 510178
+
+Running Louvain algorithm...
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+****************************[1] "Clusters..C1"
+[1] "Clusters..C2"
+******|
+[1] "Clusters..C3"
+*****[1] "Clusters..C4"
+[1] "Clusters..C5"
+[1] "Clusters..C6"
+*****[1] "Clusters..C7"
+[1] "Clusters..C8"
+*****[1] "Clusters..C9"
+[1] "Clusters..C10"
+11:01:39 Optimization finished
+*****|
+Maximum modularity in 10 random starts: 0.8524
+Number of communities: 15
+Elapsed time: 3 seconds
+[1] "Clusters..C11"
+[1] "Clusters..C12"
+[1] "Clusters..C13"
+[1] "Clusters..C14"
+[1] "Clusters..C15"
+[1] "Clusters..C16"
+[1] "Clusters..C17"
+2024-06-13 11:01:41 : plotting
+[1] "seurat_clusters..0"
+[1] "Clusters..C1"
+[1] "seurat_clusters..1"
+[1] "Clusters..C2"
+[1] "seurat_clusters..2"
+[1] "seurat_clusters..3"
+[1] "Clusters..C3"
+[1] "seurat_clusters..4"
+[1] "Clusters..C4"
+[1] "seurat_clusters..5"
+[1] "Clusters..C5"
+[1] "seurat_clusters..6"
+[1] "Clusters..C6"
+[1] "seurat_clusters..7"
+[1] "Clusters..C7"
+[1] "Clusters..C8"
+[1] "seurat_clusters..8"
+[1] "Clusters..C9"
+[1] "seurat_clusters..9"
+[1] "Clusters..C10"
+[1] "seurat_clusters..10"
+[1] "Clusters..C11"
+[1] "Clusters..C12"
+[1] "seurat_clusters..11"
+[1] "seurat_clusters..12"
+[1] "Clusters..C13"
+[1] "seurat_clusters..13"
+[1] "Clusters..C14"
+[1] "seurat_clusters..14"
+[1] "Clusters..C15"
+[1] "Clusters..C16"
+[1] "Clusters..C17"
+[1] "Clusters..C18"
+[1] "seurat_clusters..0"
+[1] "seurat_clusters..1"
+[1] "seurat_clusters..2"
+[1] "seurat_clusters..3"
+[1] "seurat_clusters..4"
+[1] "seurat_clusters..5"
+[1] "seurat_clusters..6"
+[1] "seurat_clusters..7"
+[1] "seurat_clusters..8"
+[1] "seurat_clusters..9"
+[1] "seurat_clusters..10"
+[1] "seurat_clusters..11"
+[1] "seurat_clusters..12"
+2024-06-13 11:01:56 : Testing Biased Clusters, 0.481 mins elapsed.
+2024-06-13 11:01:56 : Testing Outlier Clusters, 0.482 mins elapsed.
+2024-06-13 11:01:56 : Assigning Cluster Names to 15 Clusters, 0.482 mins elapsed.
+2024-06-13 11:01:56 : Finished addClusters, 0.485 mins elapsed.
+[1] "seurat_clusters..0"
+[1] "seurat_clusters..1"
+[1] "seurat_clusters..2"
+[1] "seurat_clusters..3"
+[1] "seurat_clusters..4"
+[1] "seurat_clusters..5"
+[1] "seurat_clusters..6"
+[1] "seurat_clusters..7"
+[1] "seurat_clusters..8"
+[1] "seurat_clusters..9"
+[1] "seurat_clusters..10"
+[1] "seurat_clusters..11"
+[1] "seurat_clusters..12"
+[1] "seurat_clusters..13"
+[1] "seurat_clusters..14"
+[1] "seurat_clusters..15"
+2024-06-13 11:01:59 : adding umap
+11:01:59 UMAP embedding parameters a = 0.583 b = 1.334
+11:01:59 Read 15205 rows and found 15 numeric columns
+11:01:59 Using Annoy for neighbor search, n_neighbors = 30
+11:01:59 Building Annoy index with metric = cosine, n_trees = 50
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+11:02:02 Writing NN index file to temp file /tmp/RtmpFLC0At/file36b032f5ce02
+11:02:02 Searching Annoy index using 16 threads, search_k = 3000
+11:02:03 Annoy recall = 100%
+11:02:05 Commencing smooth kNN distance calibration using 16 threads
+11:02:08 Initializing from normalized Laplacian + noise
+11:02:08 Commencing optimization for 200 epochs, with 633364 positive edges
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+11:02:30 Optimization finished
+2024-06-13 11:02:32 : plotting
+[1] "Clusters..C1"
+[1] "Clusters..C2"
+[1] "Clusters..C3"
+[1] "Clusters..C4"
+[1] "Clusters..C5"
+[1] "Clusters..C6"
+[1] "Clusters..C7"
+[1] "Clusters..C8"
+[1] "Clusters..C9"
+[1] "Clusters..C10"
+[1] "Clusters..C11"
+[1] "Clusters..C12"
+[1] "Clusters..C13"
+[1] "Clusters..C14"
+[1] "Clusters..C15"
+[1] "seurat_clusters..0"
+[1] "seurat_clusters..1"
+[1] "seurat_clusters..2"
+[1] "seurat_clusters..3"
+[1] "seurat_clusters..4"
+[1] "seurat_clusters..5"
+[1] "seurat_clusters..6"
+[1] "seurat_clusters..7"
+[1] "seurat_clusters..8"
+[1] "seurat_clusters..9"
+[1] "seurat_clusters..10"
+[1] "seurat_clusters..11"
+[1] "seurat_clusters..12"
+[1] "seurat_clusters..13"
+[1] "seurat_clusters..14"
+[1] "seurat_clusters..15"
+[[1]]
+NULL
+
+[[2]]
+NULL
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+NULL
+
+[[6]]
+NULL
+

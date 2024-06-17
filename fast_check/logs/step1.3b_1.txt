@@ -1,0 +1,91 @@
+nohup: ignoring input
+Setting default number of Parallel threads to 12.
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+ArchR logging to : ArchRLogs/ArchR-createArrows-3158aeaf5a6-Date-2024-06-13_Time-10-24-35.log
+If there is an issue, please report to github with logFile!
+2024-06-13 10:24:36 : Batch Execution w/ safelapply!, 0 mins elapsed.
+2024-06-13 10:24:36 : (WT_rep1 : 1 of 1) Reading In Fragments from inputFiles (readMethod = tabix), 0.003 mins elapsed.
+2024-06-13 10:24:36 : (WT_rep1 : 1 of 1) Tabix Bed To Temporary File, 0.003 mins elapsed.
+2024-06-13 10:26:22 : (WT_rep1 : 1 of 1) Reading TabixFile 24 Percent, 1.772 mins elapsed.
+2024-06-13 10:28:39 : (WT_rep1 : 1 of 1) Reading TabixFile 48 Percent, 4.05 mins elapsed.
+2024-06-13 10:30:34 : (WT_rep1 : 1 of 1) Reading TabixFile 71 Percent, 5.96 mins elapsed.
+2024-06-13 10:32:05 : (WT_rep1 : 1 of 1) Reading TabixFile 95 Percent, 7.482 mins elapsed.
+2024-06-13 10:32:46 : (WT_rep1 : 1 of 1) Successful creation of Temporary File, 8.173 mins elapsed.
+2024-06-13 10:32:46 : (WT_rep1 : 1 of 1) Creating ArrowFile From Temporary File, 8.173 mins elapsed.
+2024-06-13 10:40:08 : (WT_rep1 : 1 of 1) Successful creation of Arrow File, 15.528 mins elapsed.
+2024-06-13 10:43:49 : (WT_rep1 : 1 of 1) CellStats : Number of Cells Pass Filter = 17249 , 19.219 mins elapsed.
+2024-06-13 10:43:49 : (WT_rep1 : 1 of 1) CellStats : Median Frags = 18552 , 19.22 mins elapsed.
+2024-06-13 10:43:49 : (WT_rep1 : 1 of 1) CellStats : Median TSS Enrichment = 15.598 , 19.22 mins elapsed.
+2024-06-13 10:43:56 : (WT_rep1 : 1 of 1) Adding Additional Feature Counts!, 19.325 mins elapsed.
+2024-06-13 10:45:01 : (WT_rep1 : 1 of 1) Removing Fragments from Filtered Cells, 20.42 mins elapsed.
+2024-06-13 10:45:01 : (WT_rep1 : 1 of 1) Creating Filtered Arrow File, 20.42 mins elapsed.
+2024-06-13 10:49:28 : (WT_rep1 : 1 of 1) Finished Constructing Filtered Arrow File!, 24.861 mins elapsed.
+2024-06-13 10:49:28 : (WT_rep1 : 1 of 1) Adding TileMatrix!, 24.87 mins elapsed.
+2024-06-13 11:01:01 : (WT_rep1 : 1 of 1) Adding GeneScoreMatrix!, 36.41 mins elapsed.
+2024-06-13 11:05:31 : (WT_rep1 : 1 of 1) Finished Creating Arrow File, 40.91 mins elapsed.
+ArchR logging successful to : ArchRLogs/ArchR-createArrows-3158aeaf5a6-Date-2024-06-13_Time-10-24-35.log
+[1] "WT_rep1.arrow"
+ArchR logging to : ArchRLogs/ArchR-addDoubletScores-3158972aa30-Date-2024-06-13_Time-11-05-31.log
+If there is an issue, please report to github with logFile!
+2024-06-13 11:05:32 : Batch Execution w/ safelapply!, 0 mins elapsed.
+2024-06-13 11:05:32 : WT_rep1 (1 of 1) :  Computing Doublet Statistics, 0.001 mins elapsed.
+WT_rep1 (1 of 1) : UMAP Projection R^2 = 0.9977
+ArchR logging successful to : ArchRLogs/ArchR-addDoubletScores-3158972aa30-Date-2024-06-13_Time-11-05-31.log
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+Validating Arrows...
+Getting SampleNames...
+1 
+Getting Cell Metadata...
+1 
+Merging Cell Metadata...
+Initializing ArchRProject...
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+ArchR logging to : ArchRLogs/ArchR-createArrows-31587057012-Date-2024-06-13_Time-11-17-43.log
+If there is an issue, please report to github with logFile!
+2024-06-13 11:17:45 : Batch Execution w/ safelapply!, 0 mins elapsed.
+2024-06-13 11:17:45 : (KO_rep1 : 1 of 1) Reading In Fragments from inputFiles (readMethod = tabix), 0.002 mins elapsed.
+2024-06-13 11:17:45 : (KO_rep1 : 1 of 1) Tabix Bed To Temporary File, 0.002 mins elapsed.
+2024-06-13 11:18:56 : (KO_rep1 : 1 of 1) Reading TabixFile 24 Percent, 1.189 mins elapsed.
+2024-06-13 11:20:15 : (KO_rep1 : 1 of 1) Reading TabixFile 48 Percent, 2.501 mins elapsed.
+2024-06-13 11:21:21 : (KO_rep1 : 1 of 1) Reading TabixFile 71 Percent, 3.609 mins elapsed.
+2024-06-13 11:22:18 : (KO_rep1 : 1 of 1) Reading TabixFile 95 Percent, 4.551 mins elapsed.
+2024-06-13 11:22:51 : (KO_rep1 : 1 of 1) Successful creation of Temporary File, 5.104 mins elapsed.
+2024-06-13 11:22:51 : (KO_rep1 : 1 of 1) Creating ArrowFile From Temporary File, 5.104 mins elapsed.
+2024-06-13 11:29:08 : (KO_rep1 : 1 of 1) Successful creation of Arrow File, 11.386 mins elapsed.
+2024-06-13 11:32:14 : (KO_rep1 : 1 of 1) CellStats : Number of Cells Pass Filter = 13495 , 14.496 mins elapsed.
+2024-06-13 11:32:14 : (KO_rep1 : 1 of 1) CellStats : Median Frags = 20847 , 14.496 mins elapsed.
+2024-06-13 11:32:14 : (KO_rep1 : 1 of 1) CellStats : Median TSS Enrichment = 16.58 , 14.497 mins elapsed.
+2024-06-13 11:32:20 : (KO_rep1 : 1 of 1) Adding Additional Feature Counts!, 14.581 mins elapsed.
+2024-06-13 11:33:22 : (KO_rep1 : 1 of 1) Removing Fragments from Filtered Cells, 15.625 mins elapsed.
+2024-06-13 11:33:22 : (KO_rep1 : 1 of 1) Creating Filtered Arrow File, 15.625 mins elapsed.
+2024-06-13 11:36:48 : (KO_rep1 : 1 of 1) Finished Constructing Filtered Arrow File!, 19.05 mins elapsed.
+2024-06-13 11:36:48 : (KO_rep1 : 1 of 1) Adding TileMatrix!, 19.057 mins elapsed.
+2024-06-13 11:44:03 : (KO_rep1 : 1 of 1) Adding GeneScoreMatrix!, 26.308 mins elapsed.
+2024-06-13 11:47:44 : (KO_rep1 : 1 of 1) Finished Creating Arrow File, 29.981 mins elapsed.
+ArchR logging successful to : ArchRLogs/ArchR-createArrows-31587057012-Date-2024-06-13_Time-11-17-43.log
+[1] "KO_rep1.arrow"
+ArchR logging to : ArchRLogs/ArchR-addDoubletScores-31582efe3ee-Date-2024-06-13_Time-11-47-44.log
+If there is an issue, please report to github with logFile!
+2024-06-13 11:47:45 : Batch Execution w/ safelapply!, 0 mins elapsed.
+2024-06-13 11:47:45 : KO_rep1 (1 of 1) :  Computing Doublet Statistics, 0.001 mins elapsed.
+KO_rep1 (1 of 1) : UMAP Projection R^2 = 0.99724
+ArchR logging successful to : ArchRLogs/ArchR-addDoubletScores-31582efe3ee-Date-2024-06-13_Time-11-47-44.log
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+Validating Arrows...
+Getting SampleNames...
+1 
+Getting Cell Metadata...
+1 
+Merging Cell Metadata...
+Initializing ArchRProject...
+Setting default number of Parallel threads to 12.
+Error in gzfile(file, "rb") : cannot open the connection
+Calls: <Anonymous> -> lapply -> FUN -> readRDS -> gzfile
+In addition: Warning message:
+In gzfile(file, "rb") :
+  cannot open compressed file 'fast_check/sth/per_sample//WT_rep1/soi.Rds', probable reason 'No such file or directory'
+Execution halted

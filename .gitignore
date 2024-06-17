@@ -1,1 +1,7 @@
-/bar/cfan/.gitignore
+test*
+.*
+*.Rproj
+!/.gitignore
+.Rproj.user
+ArchRLogs
+tmp

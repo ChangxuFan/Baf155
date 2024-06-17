@@ -1,0 +1,16 @@
+cell_type	markers
+HSPC	"Hlf, Procr, Ly6a, Myct1"
+Transitional	
+Neu	"Cebpe, Gfi1, Elane, Gstm1"
+Neu2	
+Mono/DC	"Irf8, Csf1r, Ly86, Ccr2"
+Ery	"Klf1, Gata1, Epor"
+Mega	"Pf4, Itga2b, Gp1bb"
+Lympho	"Flt3, Dntt, Il7r"
+Cycling	"Mki67, Top2a, Cdk1"
+Ribosome	"Rpl28, Rpl32, Rpl13"
+Baso/Mast	"Fcer1a, Cpa3, Ms4a2"
+Wfdc17	Wfdc17
+Ltb	Ltb
+MHC-II	"H2-Aa, H2-Eb1, Cd74"
+Interferon	"Iigp1, Ifit1, Ifi44, Oasl2"

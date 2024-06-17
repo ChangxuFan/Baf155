@@ -1,0 +1,19 @@
+cell_type	color
+Major progenitors	
+HSPC	#548235
+Transitional	#A9D18E
+Neu	#0000FF
+Neu2	#0070C0
+Mono/DC	#00B0F0
+Ery	#FF0000
+Mega	#C00000
+Lympho	#7030A0
+Cycling	grey80
+	
+Small clusters	
+Ribosome	#FFC000
+Baso/Mast	#DF6CCA
+Wfdc17	#F4B283
+Ltb	#ED7D31
+MHC-II	#E9CC91
+Interferon	#B37B00

@@ -1,0 +1,96 @@
+nohup: ignoring input
+Warning message:
+In dir.create(work.dir) : 'day9_only/sth/de_v1' already exists
+Joining with `by = join_by(cell.id)`
+converting counts to integer mode
+[1] "using median locfunc"
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+Joining with `by = join_by(gene)`
+Joining with `by = join_by(cell.id)`
+converting counts to integer mode
+[1] "using median locfunc"
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+Joining with `by = join_by(gene)`
+Joining with `by = join_by(cell.id)`
+converting counts to integer mode
+[1] "using median locfunc"
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+Joining with `by = join_by(gene)`
+Joining with `by = join_by(cell.id)`
+converting counts to integer mode
+[1] "using median locfunc"
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+Joining with `by = join_by(gene)`
+Joining with `by = join_by(cell.id)`
+converting counts to integer mode
+[1] "using median locfunc"
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+Joining with `by = join_by(gene)`
+Joining with `by = join_by(cell.id)`
+converting counts to integer mode
+[1] "using median locfunc"
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+Joining with `by = join_by(gene)`
+Joining with `by = join_by(cell.id)`
+converting counts to integer mode
+[1] "using median locfunc"
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+Joining with `by = join_by(gene)`
+Joining with `by = join_by(cell.id)`
+converting counts to integer mode
+[1] "using median locfunc"
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+Joining with `by = join_by(gene)`
+Joining with `by = join_by(cell.id)`
+converting counts to integer mode
+[1] "using median locfunc"
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+Joining with `by = join_by(gene)`
+There were 27 warnings (use warnings() to see them)
+Processing cluster: seurat_clusters_0
+Processing cluster: seurat_clusters_1
+Processing cluster: seurat_clusters_3
+Warning messages:
+1: In FUN(X[[i]], ...) :
+  defaulted to use summ.slot (behavior change since 2022-07-07.
+2: Ignoring unknown aesthetics: text 
+3: In FUN(X[[i]], ...) :
+  defaulted to use summ.slot (behavior change since 2022-07-07.
+4: Ignoring unknown aesthetics: text 
+5: In FUN(X[[i]], ...) :
+  defaulted to use summ.slot (behavior change since 2022-07-07.
+6: Ignoring unknown aesthetics: text 
+[1] "using all genes in s2b$bulkNorm$gene"
+[1] "using all genes in s2b$bulkNorm$gene"
+[1] "using all genes in s2b$bulkNorm$gene"
+
+
+
+[1] "using all genes in s2b$bulkNorm$gene"
+[1] "using all genes in s2b$bulkNorm$gene"
+[1] "using all genes in s2b$bulkNorm$gene"
+Loading required package: DOSE
+
+DOSE v3.17.1  For help: https://guangchuangyu.github.io/software/DOSE
+
+If you use DOSE in published research, please cite:
+Guangchuang Yu, Li-Gen Wang, Guang-Rong Yan, Qing-Yu He. DOSE: an R/Bioconductor package for Disease Ontology Semantic and Enrichment analysis. Bioinformatics 2015, 31(4):608-609
+

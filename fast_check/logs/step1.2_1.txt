@@ -1,0 +1,318 @@
+nohup: ignoring input
+Setting default number of Parallel threads to 3.
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+ArchR logging to : ArchRLogs/ArchR-createArrows-6f137a1b263d-Date-2024-06-12_Time-15-46-07.log
+If there is an issue, please report to github with logFile!
+ArchR logging to : ArchRLogs/ArchR-createArrows-6f117a1b263d-Date-2024-06-12_Time-15-46-07.log
+If there is an issue, please report to github with logFile!
+ArchR logging to : ArchRLogs/ArchR-createArrows-6f0e7a1b263d-Date-2024-06-12_Time-15-46-07.log
+If there is an issue, please report to github with logFile!
+ArchR logging to : ArchRLogs/ArchR-createArrows-6f0f7a1b263d-Date-2024-06-12_Time-15-46-07.log
+If there is an issue, please report to github with logFile!
+ArchR logging to : ArchRLogs/ArchR-createArrows-6f197a1b263d-Date-2024-06-12_Time-15-46-07.log
+If there is an issue, please report to github with logFile!
+ArchR logging to : ArchRLogs/ArchR-createArrows-6f177a1b263d-Date-2024-06-12_Time-15-46-07.log
+If there is an issue, please report to github with logFile!
+2024-06-12 15:46:08 : Batch Execution w/ safelapply!, 0 mins elapsed.
+2024-06-12 15:46:08 : Batch Execution w/ safelapply!, 0 mins elapsed.
+2024-06-12 15:46:08 : Batch Execution w/ safelapply!, 0 mins elapsed.
+2024-06-12 15:46:08 : Batch Execution w/ safelapply!, 0 mins elapsed.
+2024-06-12 15:46:08 : Batch Execution w/ safelapply!, 0 mins elapsed.
+2024-06-12 15:46:08 : (WT_rep1 : 1 of 1) Reading In Fragments from inputFiles (readMethod = tabix), 0.002 mins elapsed.
+2024-06-12 15:46:08 : (KO_rep1 : 1 of 1) Reading In Fragments from inputFiles (readMethod = tabix), 0.002 mins elapsed.
+2024-06-12 15:46:08 : (KO_rep3 : 1 of 1) Reading In Fragments from inputFiles (readMethod = tabix), 0.002 mins elapsed.
+2024-06-12 15:46:08 : (WT_rep1 : 1 of 1) Tabix Bed To Temporary File, 0.002 mins elapsed.
+2024-06-12 15:46:08 : (KO_rep1 : 1 of 1) Tabix Bed To Temporary File, 0.002 mins elapsed.
+2024-06-12 15:46:08 : (KO_rep3 : 1 of 1) Tabix Bed To Temporary File, 0.002 mins elapsed.
+2024-06-12 15:46:08 : (WT_rep2 : 1 of 1) Reading In Fragments from inputFiles (readMethod = tabix), 0.002 mins elapsed.
+2024-06-12 15:46:08 : (WT_rep2 : 1 of 1) Tabix Bed To Temporary File, 0.002 mins elapsed.
+2024-06-12 15:46:08 : (KO_rep2 : 1 of 1) Reading In Fragments from inputFiles (readMethod = tabix), 0.003 mins elapsed.
+2024-06-12 15:46:08 : Batch Execution w/ safelapply!, 0 mins elapsed.
+2024-06-12 15:46:08 : (KO_rep2 : 1 of 1) Tabix Bed To Temporary File, 0.003 mins elapsed.
+2024-06-12 15:46:08 : (WT_rep3 : 1 of 1) Reading In Fragments from inputFiles (readMethod = tabix), 0.002 mins elapsed.
+2024-06-12 15:46:08 : (WT_rep3 : 1 of 1) Tabix Bed To Temporary File, 0.003 mins elapsed.
+2024-06-12 15:47:40 : (KO_rep3 : 1 of 1) Reading TabixFile 7 Percent, 1.537 mins elapsed.
+2024-06-12 15:48:03 : (WT_rep3 : 1 of 1) Reading TabixFile 7 Percent, 1.917 mins elapsed.
+2024-06-12 15:48:03 : (KO_rep2 : 1 of 1) Reading TabixFile 7 Percent, 1.922 mins elapsed.
+2024-06-12 15:48:08 : (WT_rep2 : 1 of 1) Reading TabixFile 7 Percent, 2.011 mins elapsed.
+2024-06-12 15:48:20 : (KO_rep1 : 1 of 1) Reading TabixFile 7 Percent, 2.208 mins elapsed.
+2024-06-12 15:48:35 : (WT_rep1 : 1 of 1) Reading TabixFile 7 Percent, 2.456 mins elapsed.
+2024-06-12 15:49:54 : (KO_rep3 : 1 of 1) Reading TabixFile 13 Percent, 3.77 mins elapsed.
+2024-06-12 15:50:36 : (KO_rep2 : 1 of 1) Reading TabixFile 13 Percent, 4.48 mins elapsed.
+2024-06-12 15:50:46 : (WT_rep3 : 1 of 1) Reading TabixFile 13 Percent, 4.638 mins elapsed.
+2024-06-12 15:50:54 : (WT_rep2 : 1 of 1) Reading TabixFile 13 Percent, 4.781 mins elapsed.
+2024-06-12 15:51:21 : (KO_rep1 : 1 of 1) Reading TabixFile 13 Percent, 5.23 mins elapsed.
+2024-06-12 15:51:32 : (KO_rep3 : 1 of 1) Reading TabixFile 20 Percent, 5.404 mins elapsed.
+2024-06-12 15:52:04 : (WT_rep1 : 1 of 1) Reading TabixFile 13 Percent, 5.94 mins elapsed.
+2024-06-12 15:52:28 : (KO_rep2 : 1 of 1) Reading TabixFile 20 Percent, 6.334 mins elapsed.
+2024-06-12 15:52:52 : (WT_rep3 : 1 of 1) Reading TabixFile 20 Percent, 6.744 mins elapsed.
+2024-06-12 15:53:04 : (WT_rep2 : 1 of 1) Reading TabixFile 20 Percent, 6.946 mins elapsed.
+2024-06-12 15:53:20 : (KO_rep3 : 1 of 1) Reading TabixFile 27 Percent, 7.214 mins elapsed.
+2024-06-12 15:53:37 : (KO_rep1 : 1 of 1) Reading TabixFile 20 Percent, 7.496 mins elapsed.
+2024-06-12 15:54:39 : (WT_rep1 : 1 of 1) Reading TabixFile 20 Percent, 8.531 mins elapsed.
+2024-06-12 15:55:15 : (KO_rep2 : 1 of 1) Reading TabixFile 27 Percent, 9.128 mins elapsed.
+2024-06-12 15:55:24 : (WT_rep3 : 1 of 1) Reading TabixFile 27 Percent, 9.267 mins elapsed.
+2024-06-12 15:55:32 : (KO_rep3 : 1 of 1) Reading TabixFile 33 Percent, 9.415 mins elapsed.
+2024-06-12 15:55:36 : (WT_rep2 : 1 of 1) Reading TabixFile 27 Percent, 9.47 mins elapsed.
+2024-06-12 15:56:20 : (KO_rep1 : 1 of 1) Reading TabixFile 27 Percent, 10.203 mins elapsed.
+2024-06-12 15:57:02 : (KO_rep3 : 1 of 1) Reading TabixFile 40 Percent, 10.906 mins elapsed.
+2024-06-12 15:57:34 : (KO_rep2 : 1 of 1) Reading TabixFile 33 Percent, 11.445 mins elapsed.
+2024-06-12 15:57:42 : (WT_rep3 : 1 of 1) Reading TabixFile 33 Percent, 11.574 mins elapsed.
+2024-06-12 15:57:47 : (WT_rep1 : 1 of 1) Reading TabixFile 27 Percent, 11.664 mins elapsed.
+2024-06-12 15:58:01 : (WT_rep2 : 1 of 1) Reading TabixFile 33 Percent, 11.898 mins elapsed.
+2024-06-12 15:58:56 : (KO_rep3 : 1 of 1) Reading TabixFile 47 Percent, 12.814 mins elapsed.
+2024-06-12 15:59:34 : (KO_rep2 : 1 of 1) Reading TabixFile 40 Percent, 13.432 mins elapsed.
+2024-06-12 15:59:34 : (KO_rep1 : 1 of 1) Reading TabixFile 33 Percent, 13.446 mins elapsed.
+2024-06-12 15:59:48 : (WT_rep3 : 1 of 1) Reading TabixFile 40 Percent, 13.67 mins elapsed.
+2024-06-12 16:00:03 : (WT_rep2 : 1 of 1) Reading TabixFile 40 Percent, 13.919 mins elapsed.
+2024-06-12 16:01:07 : (WT_rep1 : 1 of 1) Reading TabixFile 33 Percent, 14.997 mins elapsed.
+2024-06-12 16:01:15 : (KO_rep3 : 1 of 1) Reading TabixFile 53 Percent, 15.12 mins elapsed.
+2024-06-12 16:01:32 : (KO_rep2 : 1 of 1) Reading TabixFile 47 Percent, 15.409 mins elapsed.
+2024-06-12 16:01:37 : (WT_rep3 : 1 of 1) Reading TabixFile 47 Percent, 15.494 mins elapsed.
+2024-06-12 16:01:59 : (WT_rep2 : 1 of 1) Reading TabixFile 47 Percent, 15.857 mins elapsed.
+2024-06-12 16:02:03 : (KO_rep1 : 1 of 1) Reading TabixFile 40 Percent, 15.928 mins elapsed.
+2024-06-12 16:02:29 : (KO_rep3 : 1 of 1) Reading TabixFile 60 Percent, 16.359 mins elapsed.
+2024-06-12 16:03:38 : (KO_rep3 : 1 of 1) Reading TabixFile 67 Percent, 17.499 mins elapsed.
+2024-06-12 16:03:43 : (WT_rep1 : 1 of 1) Reading TabixFile 40 Percent, 17.595 mins elapsed.
+2024-06-12 16:03:47 : (WT_rep3 : 1 of 1) Reading TabixFile 53 Percent, 17.648 mins elapsed.
+2024-06-12 16:04:06 : (KO_rep2 : 1 of 1) Reading TabixFile 53 Percent, 17.971 mins elapsed.
+2024-06-12 16:04:12 : (KO_rep1 : 1 of 1) Reading TabixFile 47 Percent, 18.081 mins elapsed.
+2024-06-12 16:04:41 : (WT_rep2 : 1 of 1) Reading TabixFile 53 Percent, 18.561 mins elapsed.
+2024-06-12 16:04:58 : (KO_rep3 : 1 of 1) Reading TabixFile 73 Percent, 18.841 mins elapsed.
+2024-06-12 16:05:21 : (WT_rep3 : 1 of 1) Reading TabixFile 60 Percent, 19.225 mins elapsed.
+2024-06-12 16:05:36 : (KO_rep2 : 1 of 1) Reading TabixFile 60 Percent, 19.477 mins elapsed.
+2024-06-12 16:05:52 : (KO_rep3 : 1 of 1) Reading TabixFile 80 Percent, 19.732 mins elapsed.
+2024-06-12 16:06:16 : (WT_rep1 : 1 of 1) Reading TabixFile 47 Percent, 20.139 mins elapsed.
+2024-06-12 16:06:35 : (WT_rep3 : 1 of 1) Reading TabixFile 67 Percent, 20.454 mins elapsed.
+2024-06-12 16:06:38 : (WT_rep2 : 1 of 1) Reading TabixFile 60 Percent, 20.5 mins elapsed.
+2024-06-12 16:07:07 : (KO_rep1 : 1 of 1) Reading TabixFile 53 Percent, 20.989 mins elapsed.
+2024-06-12 16:07:11 : (KO_rep3 : 1 of 1) Reading TabixFile 87 Percent, 21.052 mins elapsed.
+2024-06-12 16:07:13 : (KO_rep2 : 1 of 1) Reading TabixFile 67 Percent, 21.094 mins elapsed.
+2024-06-12 16:08:03 : (WT_rep3 : 1 of 1) Reading TabixFile 73 Percent, 21.928 mins elapsed.
+2024-06-12 16:08:10 : (KO_rep3 : 1 of 1) Reading TabixFile 93 Percent, 22.048 mins elapsed.
+2024-06-12 16:08:16 : (WT_rep2 : 1 of 1) Reading TabixFile 67 Percent, 22.135 mins elapsed.
+2024-06-12 16:08:35 : (KO_rep2 : 1 of 1) Reading TabixFile 73 Percent, 22.464 mins elapsed.
+2024-06-12 16:08:38 : (KO_rep3 : 1 of 1) Reading TabixFile 100 Percent, 22.499 mins elapsed.
+2024-06-12 16:08:58 : (KO_rep3 : 1 of 1) Successful creation of Temporary File, 22.838 mins elapsed.
+2024-06-12 16:08:58 : (KO_rep3 : 1 of 1) Creating ArrowFile From Temporary File, 22.838 mins elapsed.
+2024-06-12 16:09:03 : (WT_rep3 : 1 of 1) Reading TabixFile 80 Percent, 22.917 mins elapsed.
+2024-06-12 16:09:14 : (KO_rep1 : 1 of 1) Reading TabixFile 60 Percent, 23.114 mins elapsed.
+2024-06-12 16:09:23 : (WT_rep1 : 1 of 1) Reading TabixFile 53 Percent, 23.253 mins elapsed.
+2024-06-12 16:09:50 : (KO_rep2 : 1 of 1) Reading TabixFile 80 Percent, 23.708 mins elapsed.
+2024-06-12 16:10:01 : (WT_rep2 : 1 of 1) Reading TabixFile 73 Percent, 23.891 mins elapsed.
+2024-06-12 16:10:33 : (WT_rep3 : 1 of 1) Reading TabixFile 87 Percent, 24.422 mins elapsed.
+2024-06-12 16:11:02 : (KO_rep1 : 1 of 1) Reading TabixFile 67 Percent, 24.901 mins elapsed.
+2024-06-12 16:11:17 : (WT_rep2 : 1 of 1) Reading TabixFile 80 Percent, 25.161 mins elapsed.
+2024-06-12 16:11:28 : (WT_rep1 : 1 of 1) Reading TabixFile 60 Percent, 25.341 mins elapsed.
+2024-06-12 16:11:28 : (KO_rep2 : 1 of 1) Reading TabixFile 87 Percent, 25.347 mins elapsed.
+2024-06-12 16:11:55 : (WT_rep3 : 1 of 1) Reading TabixFile 93 Percent, 25.788 mins elapsed.
+2024-06-12 16:12:26 : (WT_rep3 : 1 of 1) Reading TabixFile 100 Percent, 26.296 mins elapsed.
+2024-06-12 16:12:34 : (KO_rep2 : 1 of 1) Reading TabixFile 93 Percent, 26.441 mins elapsed.
+2024-06-12 16:12:52 : (WT_rep3 : 1 of 1) Successful creation of Temporary File, 26.737 mins elapsed.
+2024-06-12 16:12:52 : (WT_rep3 : 1 of 1) Creating ArrowFile From Temporary File, 26.738 mins elapsed.
+2024-06-12 16:12:53 : (WT_rep2 : 1 of 1) Reading TabixFile 87 Percent, 26.756 mins elapsed.
+2024-06-12 16:12:55 : (KO_rep1 : 1 of 1) Reading TabixFile 73 Percent, 26.795 mins elapsed.
+2024-06-12 16:13:10 : (KO_rep2 : 1 of 1) Reading TabixFile 100 Percent, 27.034 mins elapsed.
+2024-06-12 16:13:19 : (WT_rep1 : 1 of 1) Reading TabixFile 67 Percent, 27.192 mins elapsed.
+2024-06-12 16:13:49 : (KO_rep2 : 1 of 1) Successful creation of Temporary File, 27.684 mins elapsed.
+2024-06-12 16:13:49 : (KO_rep2 : 1 of 1) Creating ArrowFile From Temporary File, 27.684 mins elapsed.
+2024-06-12 16:14:02 : (KO_rep1 : 1 of 1) Reading TabixFile 80 Percent, 27.906 mins elapsed.
+2024-06-12 16:14:04 : (WT_rep2 : 1 of 1) Reading TabixFile 93 Percent, 27.939 mins elapsed.
+2024-06-12 16:14:35 : (WT_rep2 : 1 of 1) Reading TabixFile 100 Percent, 28.452 mins elapsed.
+2024-06-12 16:15:10 : (WT_rep2 : 1 of 1) Successful creation of Temporary File, 29.039 mins elapsed.
+2024-06-12 16:15:10 : (WT_rep2 : 1 of 1) Creating ArrowFile From Temporary File, 29.04 mins elapsed.
+2024-06-12 16:15:14 : (WT_rep1 : 1 of 1) Reading TabixFile 73 Percent, 29.112 mins elapsed.
+2024-06-12 16:15:41 : (KO_rep1 : 1 of 1) Reading TabixFile 87 Percent, 29.553 mins elapsed.
+2024-06-12 16:16:32 : (WT_rep1 : 1 of 1) Reading TabixFile 80 Percent, 30.413 mins elapsed.
+2024-06-12 16:17:06 : (KO_rep1 : 1 of 1) Reading TabixFile 93 Percent, 30.971 mins elapsed.
+2024-06-12 16:17:41 : (KO_rep1 : 1 of 1) Reading TabixFile 100 Percent, 31.562 mins elapsed.
+2024-06-12 16:18:32 : (WT_rep1 : 1 of 1) Reading TabixFile 87 Percent, 32.401 mins elapsed.
+2024-06-12 16:18:52 : (KO_rep1 : 1 of 1) Successful creation of Temporary File, 32.742 mins elapsed.
+2024-06-12 16:18:52 : (KO_rep1 : 1 of 1) Creating ArrowFile From Temporary File, 32.744 mins elapsed.
+2024-06-12 16:20:08 : (WT_rep1 : 1 of 1) Reading TabixFile 93 Percent, 34 mins elapsed.
+2024-06-12 16:20:49 : (WT_rep1 : 1 of 1) Reading TabixFile 100 Percent, 34.686 mins elapsed.
+2024-06-12 16:21:47 : (WT_rep1 : 1 of 1) Successful creation of Temporary File, 35.649 mins elapsed.
+2024-06-12 16:21:47 : (WT_rep1 : 1 of 1) Creating ArrowFile From Temporary File, 35.65 mins elapsed.
+2024-06-12 16:29:18 : (KO_rep3 : 1 of 1) Successful creation of Arrow File, 43.174 mins elapsed.
+2024-06-12 16:38:10 : (KO_rep3 : 1 of 1) CellStats : Number of Cells Pass Filter = 11897 , 52.04 mins elapsed.
+2024-06-12 16:38:10 : (KO_rep3 : 1 of 1) CellStats : Median Frags = 16094 , 52.042 mins elapsed.
+2024-06-12 16:38:10 : (KO_rep3 : 1 of 1) CellStats : Median TSS Enrichment = 18.259 , 52.044 mins elapsed.
+2024-06-12 16:38:19 : (KO_rep3 : 1 of 1) Adding Additional Feature Counts!, 52.192 mins elapsed.
+2024-06-12 16:40:09 : (WT_rep3 : 1 of 1) Successful creation of Arrow File, 54.026 mins elapsed.
+2024-06-12 16:41:23 : (KO_rep3 : 1 of 1) Removing Fragments from Filtered Cells, 55.264 mins elapsed.
+2024-06-12 16:41:24 : (KO_rep3 : 1 of 1) Creating Filtered Arrow File, 55.266 mins elapsed.
+2024-06-12 16:43:29 : (KO_rep2 : 1 of 1) Successful creation of Arrow File, 57.357 mins elapsed.
+2024-06-12 16:45:42 : (WT_rep2 : 1 of 1) Successful creation of Arrow File, 59.579 mins elapsed.
+2024-06-12 16:48:15 : (KO_rep3 : 1 of 1) Finished Constructing Filtered Arrow File!, 62.116 mins elapsed.
+2024-06-12 16:48:18 : (KO_rep3 : 1 of 1) Adding TileMatrix!, 62.167 mins elapsed.
+2024-06-12 16:48:37 : (WT_rep3 : 1 of 1) CellStats : Number of Cells Pass Filter = 13662 , 62.492 mins elapsed.
+2024-06-12 16:48:37 : (WT_rep3 : 1 of 1) CellStats : Median Frags = 18850.5 , 62.493 mins elapsed.
+2024-06-12 16:48:37 : (WT_rep3 : 1 of 1) CellStats : Median TSS Enrichment = 17.226 , 62.495 mins elapsed.
+2024-06-12 16:48:46 : (WT_rep3 : 1 of 1) Adding Additional Feature Counts!, 62.631 mins elapsed.
+2024-06-12 16:50:45 : (KO_rep1 : 1 of 1) Successful creation of Arrow File, 64.63 mins elapsed.
+2024-06-12 16:51:33 : (KO_rep2 : 1 of 1) CellStats : Number of Cells Pass Filter = 23408 , 65.429 mins elapsed.
+2024-06-12 16:51:33 : (KO_rep2 : 1 of 1) CellStats : Median Frags = 10234 , 65.43 mins elapsed.
+2024-06-12 16:51:33 : (KO_rep2 : 1 of 1) CellStats : Median TSS Enrichment = 15.681 , 65.431 mins elapsed.
+2024-06-12 16:51:43 : (KO_rep2 : 1 of 1) Adding Additional Feature Counts!, 65.588 mins elapsed.
+2024-06-12 16:51:52 : (WT_rep3 : 1 of 1) Removing Fragments from Filtered Cells, 65.737 mins elapsed.
+2024-06-12 16:51:52 : (WT_rep3 : 1 of 1) Creating Filtered Arrow File, 65.738 mins elapsed.
+2024-06-12 16:53:36 : (WT_rep2 : 1 of 1) CellStats : Number of Cells Pass Filter = 11291 , 67.474 mins elapsed.
+2024-06-12 16:53:36 : (WT_rep2 : 1 of 1) CellStats : Median Frags = 27008 , 67.474 mins elapsed.
+2024-06-12 16:53:36 : (WT_rep2 : 1 of 1) CellStats : Median TSS Enrichment = 15.567 , 67.474 mins elapsed.
+2024-06-12 16:53:39 : (WT_rep1 : 1 of 1) Successful creation of Arrow File, 67.531 mins elapsed.
+2024-06-12 16:53:42 : (WT_rep2 : 1 of 1) Adding Additional Feature Counts!, 67.579 mins elapsed.
+2024-06-12 16:54:32 : (KO_rep2 : 1 of 1) Removing Fragments from Filtered Cells, 68.409 mins elapsed.
+2024-06-12 16:54:32 : (KO_rep2 : 1 of 1) Creating Filtered Arrow File, 68.41 mins elapsed.
+2024-06-12 16:56:21 : (WT_rep2 : 1 of 1) Removing Fragments from Filtered Cells, 70.217 mins elapsed.
+2024-06-12 16:56:21 : (WT_rep2 : 1 of 1) Creating Filtered Arrow File, 70.217 mins elapsed.
+2024-06-12 16:56:57 : (KO_rep3 : 1 of 1) Adding GeneScoreMatrix!, 70.823 mins elapsed.
+2024-06-12 16:57:44 : (KO_rep1 : 1 of 1) CellStats : Number of Cells Pass Filter = 13495 , 71.599 mins elapsed.
+2024-06-12 16:57:44 : (KO_rep1 : 1 of 1) CellStats : Median Frags = 20847 , 71.6 mins elapsed.
+2024-06-12 16:57:44 : (KO_rep1 : 1 of 1) CellStats : Median TSS Enrichment = 16.58 , 71.6 mins elapsed.
+2024-06-12 16:57:48 : (WT_rep3 : 1 of 1) Finished Constructing Filtered Arrow File!, 71.668 mins elapsed.
+2024-06-12 16:57:49 : (WT_rep3 : 1 of 1) Adding TileMatrix!, 71.693 mins elapsed.
+2024-06-12 16:57:50 : (KO_rep1 : 1 of 1) Adding Additional Feature Counts!, 71.712 mins elapsed.
+2024-06-12 17:00:05 : (KO_rep2 : 1 of 1) Finished Constructing Filtered Arrow File!, 73.963 mins elapsed.
+2024-06-12 17:00:07 : (KO_rep2 : 1 of 1) Adding TileMatrix!, 73.984 mins elapsed.
+2024-06-12 17:00:24 : (KO_rep1 : 1 of 1) Removing Fragments from Filtered Cells, 74.277 mins elapsed.
+2024-06-12 17:00:24 : (KO_rep1 : 1 of 1) Creating Filtered Arrow File, 74.277 mins elapsed.
+2024-06-12 17:00:37 : (WT_rep1 : 1 of 1) CellStats : Number of Cells Pass Filter = 17249 , 74.487 mins elapsed.
+2024-06-12 17:00:37 : (WT_rep1 : 1 of 1) CellStats : Median Frags = 18552 , 74.487 mins elapsed.
+2024-06-12 17:00:37 : (WT_rep1 : 1 of 1) CellStats : Median TSS Enrichment = 15.598 , 74.488 mins elapsed.
+2024-06-12 17:00:43 : (WT_rep1 : 1 of 1) Adding Additional Feature Counts!, 74.596 mins elapsed.
+2024-06-12 17:01:46 : (WT_rep2 : 1 of 1) Finished Constructing Filtered Arrow File!, 75.632 mins elapsed.
+2024-06-12 17:01:46 : (WT_rep2 : 1 of 1) Adding TileMatrix!, 75.645 mins elapsed.
+2024-06-12 17:03:03 : (KO_rep3 : 1 of 1) Finished Creating Arrow File, 76.918 mins elapsed.
+ArchR logging successful to : ArchRLogs/ArchR-createArrows-6f197a1b263d-Date-2024-06-12_Time-15-46-07.log
+[1] "KO_rep3.arrow"
+ArchR logging to : ArchRLogs/ArchR-addDoubletScores-6f192cfcd174-Date-2024-06-12_Time-17-03-03.log
+If there is an issue, please report to github with logFile!
+2024-06-12 17:03:04 : Batch Execution w/ safelapply!, 0 mins elapsed.
+2024-06-12 17:03:05 : KO_rep3 (1 of 1) :  Computing Doublet Statistics, 0.001 mins elapsed.
+2024-06-12 17:03:19 : (WT_rep1 : 1 of 1) Removing Fragments from Filtered Cells, 77.195 mins elapsed.
+2024-06-12 17:03:19 : (WT_rep1 : 1 of 1) Creating Filtered Arrow File, 77.196 mins elapsed.
+2024-06-12 17:05:23 : (KO_rep1 : 1 of 1) Finished Constructing Filtered Arrow File!, 79.26 mins elapsed.
+2024-06-12 17:05:24 : (KO_rep1 : 1 of 1) Adding TileMatrix!, 79.268 mins elapsed.
+Filtering 1 dims correlated > 0.75 to log10(depth + 1)
+2024-06-12 17:06:49 : (WT_rep3 : 1 of 1) Adding GeneScoreMatrix!, 80.688 mins elapsed.
+2024-06-12 17:08:18 : (WT_rep1 : 1 of 1) Finished Constructing Filtered Arrow File!, 82.165 mins elapsed.
+2024-06-12 17:08:18 : (WT_rep1 : 1 of 1) Adding TileMatrix!, 82.172 mins elapsed.
+2024-06-12 17:08:37 : (KO_rep2 : 1 of 1) Adding GeneScoreMatrix!, 82.497 mins elapsed.
+2024-06-12 17:11:05 : (WT_rep2 : 1 of 1) Adding GeneScoreMatrix!, 84.963 mins elapsed.
+2024-06-12 17:13:37 : (WT_rep3 : 1 of 1) Finished Creating Arrow File, 87.495 mins elapsed.
+ArchR logging successful to : ArchRLogs/ArchR-createArrows-6f177a1b263d-Date-2024-06-12_Time-15-46-07.log
+[1] "WT_rep3.arrow"
+ArchR logging to : ArchRLogs/ArchR-addDoubletScores-6f172cfcd174-Date-2024-06-12_Time-17-13-38.log
+If there is an issue, please report to github with logFile!
+2024-06-12 17:13:39 : Batch Execution w/ safelapply!, 0 mins elapsed.
+2024-06-12 17:13:39 : WT_rep3 (1 of 1) :  Computing Doublet Statistics, 0.001 mins elapsed.
+KO_rep3 (1 of 1) : UMAP Projection R^2 = 0.99771
+ArchR logging successful to : ArchRLogs/ArchR-addDoubletScores-6f192cfcd174-Date-2024-06-12_Time-17-03-03.log
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+Validating Arrows...
+Getting SampleNames...
+1 
+Getting Cell Metadata...
+1 
+Merging Cell Metadata...
+Initializing ArchRProject...
+2024-06-12 17:15:25 : (KO_rep1 : 1 of 1) Adding GeneScoreMatrix!, 89.283 mins elapsed.
+2024-06-12 17:16:01 : (KO_rep2 : 1 of 1) Finished Creating Arrow File, 89.882 mins elapsed.
+ArchR logging successful to : ArchRLogs/ArchR-createArrows-6f137a1b263d-Date-2024-06-12_Time-15-46-07.log
+[1] "KO_rep2.arrow"
+ArchR logging to : ArchRLogs/ArchR-addDoubletScores-6f132cfcd174-Date-2024-06-12_Time-17-16-01.log
+If there is an issue, please report to github with logFile!
+2024-06-12 17:16:03 : Batch Execution w/ safelapply!, 0 mins elapsed.
+2024-06-12 17:16:03 : KO_rep2 (1 of 1) :  Computing Doublet Statistics, 0.001 mins elapsed.
+Filtering 1 dims correlated > 0.75 to log10(depth + 1)
+2024-06-12 17:17:27 : (WT_rep2 : 1 of 1) Finished Creating Arrow File, 91.317 mins elapsed.
+ArchR logging successful to : ArchRLogs/ArchR-createArrows-6f117a1b263d-Date-2024-06-12_Time-15-46-07.log
+[1] "WT_rep2.arrow"
+ArchR logging to : ArchRLogs/ArchR-addDoubletScores-6f112cfcd174-Date-2024-06-12_Time-17-17-27.log
+If there is an issue, please report to github with logFile!
+2024-06-12 17:17:30 : Batch Execution w/ safelapply!, 0 mins elapsed.
+2024-06-12 17:17:30 : WT_rep2 (1 of 1) :  Computing Doublet Statistics, 0.001 mins elapsed.
+Filtering 1 dims correlated > 0.75 to log10(depth + 1)
+2024-06-12 17:19:25 : (WT_rep1 : 1 of 1) Adding GeneScoreMatrix!, 93.289 mins elapsed.
+Filtering 1 dims correlated > 0.75 to log10(depth + 1)
+2024-06-12 17:22:30 : (KO_rep1 : 1 of 1) Finished Creating Arrow File, 96.375 mins elapsed.
+ArchR logging successful to : ArchRLogs/ArchR-createArrows-6f0f7a1b263d-Date-2024-06-12_Time-15-46-07.log
+[1] "KO_rep1.arrow"
+ArchR logging to : ArchRLogs/ArchR-addDoubletScores-6f0f2cfcd174-Date-2024-06-12_Time-17-22-30.log
+If there is an issue, please report to github with logFile!
+2024-06-12 17:22:33 : Batch Execution w/ safelapply!, 0 mins elapsed.
+2024-06-12 17:22:33 : KO_rep1 (1 of 1) :  Computing Doublet Statistics, 0.001 mins elapsed.
+WT_rep3 (1 of 1) : UMAP Projection R^2 = 0.99552
+ArchR logging successful to : ArchRLogs/ArchR-addDoubletScores-6f172cfcd174-Date-2024-06-12_Time-17-13-38.log
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+Validating Arrows...
+Getting SampleNames...
+1 
+Getting Cell Metadata...
+1 
+Merging Cell Metadata...
+Initializing ArchRProject...
+2024-06-12 17:27:15 : (WT_rep1 : 1 of 1) Finished Creating Arrow File, 101.125 mins elapsed.
+ArchR logging successful to : ArchRLogs/ArchR-createArrows-6f0e7a1b263d-Date-2024-06-12_Time-15-46-07.log
+[1] "WT_rep1.arrow"
+ArchR logging to : ArchRLogs/ArchR-addDoubletScores-6f0e2cfcd174-Date-2024-06-12_Time-17-27-15.log
+If there is an issue, please report to github with logFile!
+2024-06-12 17:27:16 : Batch Execution w/ safelapply!, 0 mins elapsed.
+2024-06-12 17:27:16 : WT_rep1 (1 of 1) :  Computing Doublet Statistics, 0.001 mins elapsed.
+WT_rep2 (1 of 1) : UMAP Projection R^2 = 0.99827
+ArchR logging successful to : ArchRLogs/ArchR-addDoubletScores-6f112cfcd174-Date-2024-06-12_Time-17-17-27.log
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+Validating Arrows...
+Getting SampleNames...
+1 
+Getting Cell Metadata...
+1 
+Merging Cell Metadata...
+Initializing ArchRProject...
+KO_rep2 (1 of 1) : UMAP Projection R^2 = 0.97496
+ArchR logging successful to : ArchRLogs/ArchR-addDoubletScores-6f132cfcd174-Date-2024-06-12_Time-17-16-01.log
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+Validating Arrows...
+Getting SampleNames...
+1 
+Getting Cell Metadata...
+1 
+Merging Cell Metadata...
+Initializing ArchRProject...
+KO_rep1 (1 of 1) : UMAP Projection R^2 = 0.99722
+ArchR logging successful to : ArchRLogs/ArchR-addDoubletScores-6f0f2cfcd174-Date-2024-06-12_Time-17-22-30.log
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+Validating Arrows...
+Getting SampleNames...
+1 
+Getting Cell Metadata...
+1 
+Merging Cell Metadata...
+Initializing ArchRProject...
+WT_rep1 (1 of 1) : UMAP Projection R^2 = 0.99762
+ArchR logging successful to : ArchRLogs/ArchR-addDoubletScores-6f0e2cfcd174-Date-2024-06-12_Time-17-27-15.log
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+Using GeneAnnotation set by addArchRGenome(Mm10)!
+Validating Arrows...
+Getting SampleNames...
+1 
+Getting Cell Metadata...
+1 
+Merging Cell Metadata...
+Initializing ArchRProject...

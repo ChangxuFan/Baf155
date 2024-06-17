@@ -1,0 +1,1110 @@
+nohup: ignoring input
+PC_ 1 
+Positive:  Elane, Mpo, Prtn3, Ctsg, Srgn, F630028O10Rik, Ly6c2, Calr, Ms4a3, Nkg7 
+	   Emb, Hp, Ccr2, Tmsb4x, Plac8, H2afy, Atp8b4, Ifitm1, Clec12a, Ramp1 
+	   Cmtm7, Ccl9, Cd63, S100a8, Fcgr3, Napsa, Ms4a6c, Prss57, Itm2b, Sell 
+Negative:  C1qtnf12, Ermap, Aqp1, Car2, Atp1b2, Car1, Tfrc, Abcb4, Cpd, Tspan33 
+	   Podxl, Cpox, Ces2g, Cldn13, Rhag, Tmem56, Aplp2, Tspo2, mt-Nd2, Paqr9 
+	   Rhd, Minpp1, mt-Nd1, Blvrb, Ugcg, Tmem14c, Ctse, Cd24a, Epdr1, Fth1 
+PC_ 2 
+Positive:  Elane, Mpo, Prtn3, Ctsg, Ly6c2, F630028O10Rik, Ms4a3, C1qtnf12, mt-Nd1, Ermap 
+	   Calr, Gm26917, Hp, S100a8, Aqp1, Srgn, Clec12a, Hspa5, Tfrc, Cpd 
+	   mt-Nd2, Fcgr3, P4hb, B4galt6, Alas1, Atp8b4, Nkg7, Atp1b2, Wfdc21, Cybb 
+Negative:  Adgrl4, Ly6a, Ctla2a, Ifitm1, Adgrg1, Cd34, mt-Co1, Ltb, Wfdc17, Tmem176b 
+	   Vldlr, Ifi203, Sox4, Ptprcap, Pim1, Selp, Apoe, Angpt1, H2afy, Tmem176a 
+	   Ikzf2, Flt3, B2m, Gcnt2, Ifitm3, H2-K1, Hlf, Xist, Fut8, Tspan13 
+PC_ 3 
+Positive:  Elane, Apoe, S100a8, Srgn, Ctla2a, S100a9, Cd63, Prtn3, Wfdc21, Ltb 
+	   Ctsg, mt-Co1, Slc18a2, Fcnb, Nkg7, Angpt1, Mpo, Ms4a2, Malat1, Pglyrp1 
+	   Cpa3, Wfdc17, Hlf, Vldlr, H2-Q7, Camp, Adgrg1, Ltb4r1, Pdzk1ip1, Ikzf2 
+Negative:  Ccr2, Emb, Ms4a6c, H2afy, Irf8, Hsp90ab1, Cd34, Ly86, Ccl9, Sell 
+	   Csf1r, Calr, Gria3, Ctsz, Fcer1g, mt-Nd1, F13a1, Milr1, Mpeg1, Igfbp4 
+	   Bcl2, Tyrobp, Lgals1, Il6st, St8sia4, Ighm, Ly6e, Actb, Cd93, Glipr1 
+PC_ 4 
+Positive:  Apoe, Cpa3, Ms4a2, Fcer1a, Slc22a3, Slc18a2, Fut8, Csf2rb, Ifitm1, Itga2b 
+	   Muc13, Lmo4, Calr, Ikzf2, mt-Nd1, Gata2, Slc45a3, Gm17590, Csf2rb2, Slc7a8 
+	   Csrp3, Rnase12, Ly6e, Il1rl1, Abca2, Cd55, Ptprs, Emilin2, Cdk6, Galnt6 
+Negative:  Ltb, Wfdc17, Ly6a, C1qtnf12, Elane, Dntt, Flt3, Ly6c2, Ifi203, Prtn3 
+	   Cd74, Adgrl4, S100a8, Cldn13, Ermap, Hbb-bt, Ctse, Tfrc, Aqp1, Rhd 
+	   Tmem56, Tspan33, Ctss, Gimap6, Car2, Hlf, Mpo, Vldlr, Paqr9, Shisa5 
+PC_ 5 
+Positive:  Ly6c2, Apoe, Ms4a2, Ms4a6c, Irf8, mt-Co1, mt-Nd2, mt-Nd4, Ly86, mt-Co3 
+	   Psap, Cpa3, Mpeg1, Fcer1a, mt-Cytb, Cd74, mt-Nd1, Ctsh, mt-Atp6, Ighm 
+	   Pld4, Fcer1g, Tyrobp, Cybb, F13a1, Csf1r, H2-Aa, Ctss, H2-Eb1, mt-Nd3 
+Negative:  Calr, Adgrl4, Gm26917, Hsp90ab1, Cd34, Hsp90aa1, Slco3a1, Hspa5, Ncl, Rps6ka3 
+	   Ms4a3, Set, Ptma, Ifitm1, Hspd1, H2afy, Mlec, Manf, H2afz, Selp 
+	   Fth1, Xbp1, Vldlr, Rpl41, Ffar2, Cd63, Hsp90b1, Tomm20, Pim1, Ssr1 
+PC_ 1 
+Positive:  Elane, Prtn3, Mpo, Ctsg, S100a8, Fcnb, Camp, Srgn, Pglyrp1, S100a9 
+	   Ly6c2, Ms4a3, Cd63, Hp, Wfdc21, Tmsb4x, Lcn2, Ngp, Nkg7, Cyba 
+	   Clec12a, F630028O10Rik, C3, Serpinb1a, Calr, Prss57, Cybb, Clec4a2, Hsd11b1, B4galt6 
+Negative:  Ctla2a, mt-Co1, Ermap, Aqp1, Adgrg1, Xist, C1qtnf12, Adgrl4, Malat1, Ifitm1 
+	   Car2, Tspan13, Angpt1, Serinc3, Atp1b2, Abcb4, Tmem176b, Cldn13, Cd34, Tspan33 
+	   Slc14a1, Ptprcap, Rhd, Sox4, Ifitm3, Ifi203, Ccr2, Bcl11a, Ces2g, Rhag 
+PC_ 2 
+Positive:  Ermap, Aqp1, C1qtnf12, Atp1b2, Cldn13, Tfrc, Tspan33, Rhd, Abcb4, Rhag 
+	   Ces2g, Ctse, Cpox, Car2, mt-Nd1, Paqr9, Aplp2, Steap3, mt-Nd2, Slc38a5 
+	   Cd24a, Tmem14c, Car1, Mt2, Podxl, Blvrb, Epor, Pla2g12a, Tmem56, Ugcg 
+Negative:  Ifitm1, Ccr2, Adgrl4, H2afy, Ms4a6c, Ctla2a, Cd34, Emb, Tmem176b, Angpt1 
+	   Ifi203, Flt3, Ptprcap, Ccl9, Sell, Wfdc17, Gm2a, Adgrg1, Sox4, Ramp1 
+	   H2-DMa, Laptm5, Xist, Bcl2, Tmem176a, Fxyd5, Lyz2, Malat1, Cd27, Mef2c 
+PC_ 3 
+Positive:  Ctsg, Mpo, Calr, Ccr2, Ms4a6c, Emb, Prtn3, Slpi, Ms4a3, Ly6c2 
+	   mt-Nd1, Srgn, Hsp90ab1, Hspa5, Lgals1, Ctsz, Erp29, Ifitm1, Atp8b4, mt-Nd2 
+	   Manf, Gria3, H2afy, Pdia6, P4hb, Hsp90b1, Ctsh, Ssr2, Irf8, Cst3 
+Negative:  Camp, S100a8, S100a9, Ngp, Fcnb, Pglyrp1, Chil3, Ctla2a, Cd63, Lcn2 
+	   Wfdc21, Xist, Malat1, Tmsb4x, C3, Pf4, Lrg1, Syne1, Angpt1, Adgrg1 
+	   Cybb, Cd9, Itgb2l, Itga2b, Lyz2, Apoe, Cd177, Clec12a, Clec4a2, Orm1 
+PC_ 4 
+Positive:  Ms4a6c, Ccr2, Camp, S100a9, S100a8, Ngp, Emb, Lyz2, Ctss, Mpeg1 
+	   Ctsh, Irf8, Ly6c2, H2afy, Il6st, Psap, Csf1r, Cybb, Pld4, Ifitm1 
+	   Fcnb, Ly86, Flt3, Unc93b1, Chil3, Lgals1, Ahnak, Cd52, Tyrobp, Nrp1 
+Negative:  Ctsg, Pf4, Ctla2a, Elane, Itga2b, Srgn, Mpo, Nkg7, Vwf, Apoe 
+	   Xist, Malat1, F2r, Angpt1, Slc14a1, Cd9, Pbx1, Adgrg1, Prtn3, Gp1bb 
+	   Mpl, Plxnc1, H2-Q7, Serpine2, Pdzk1ip1, Mmrn1, Meis1, Tsix, AC149090.1, Lat 
+PC_ 5 
+Positive:  Adgrl4, Ctsg, Srgn, Ltb, Ifitm1, Slc16a11, Lcn2, Pim1, Ptprcap, Vldlr 
+	   Serpinb1a, Hlf, Tmem176b, Ms4a3, Ly6a, Cd24a, Wfdc17, Ffar2, Fth1, Cd34 
+	   Tspan13, Flt3, Gpr171, S100a6, Cd63, Hbb-bt, Msi2, Pglyrp1, Gcnt2, Tmem176a 
+Negative:  Pf4, Ly6c2, Vwf, Itga2b, Slc14a1, Ms4a6c, F2r, Lyz2, Ctsh, Gp1bb 
+	   Cd9, Itgb3, Psap, F2rl2, Pbx1, Treml1, Irf8, Cavin2, Mpeg1, Slc35d3 
+	   Gp5, Mef2c, Serpine2, Plxnc1, Mpo, Ly86, Malat1, Mmrn1, Zeb2, Csf1r 
+PC_ 1 
+Positive:  Apoe, Ctla2a, Malat1, mt-Co1, Ermap, Car2, Aqp1, Car1, Rps8, C1qtnf12 
+	   Rps9, Adgrl4, Xist, mt-Co3, Adgrg1, Bcl11a, Abcb4, Angpt1, Rps15, mt-Nd4 
+	   H2-Q7, Rplp1, Ly6a, Tspan13, Rpl13, Tsix, Vamp5, Rps3, Ces2g, mt-Nd2 
+Negative:  Elane, Mpo, Prtn3, Ctsg, Lcn2, Hp, Cybb, Wfdc21, Pglyrp1, Ms4a3 
+	   S100a8, Lrg1, S100a9, Calr, Ly6c2, Ngp, Camp, Lyz2, Ifitm6, Chil3 
+	   Cd177, Ltf, C3, Tmsb4x, Anxa1, Cyba, F630028O10Rik, Chil1, Hspa5, Fcnb 
+PC_ 2 
+Positive:  S100a9, Ngp, S100a8, Camp, Lyz2, Ltf, Ifitm6, Chil3, Cd177, Cybb 
+	   Lcn2, Wfdc21, Chil1, Lrg1, S100a6, Pglyrp1, Anxa1, Cd52, Retnlg, Fcnb 
+	   Lipg, C3, Tmsb4x, AA467197, Lgals3, Pirb, Itgb2l, Mcemp1, Slfn4, Clec4a2 
+Negative:  Elane, Mpo, Ctsg, Prtn3, Calr, Ms4a3, Hspa5, mt-Nd1, Ccr2, Hsp90ab1 
+	   P4hb, Gm26917, Manf, Nkg7, Srgn, Hsp90b1, Ctsz, Ssr2, Canx, Pdia6 
+	   Atp8b4, mt-Nd2, Tmem97, Prss57, Erp29, Ssr1, Atp6v0c, F630028O10Rik, Dmkn, Cst7 
+PC_ 3 
+Positive:  Adgrl4, Ifitm1, Pim1, Wfdc17, H2afy, Ly6a, Ltb, Tmem176b, Mpo, Sox4 
+	   Ifi203, Prtn3, Cd34, Ctsg, Ramp1, Emb, Vldlr, Ctla2a, Elane, Ccl9 
+	   Hlf, Tmem176a, Adgrg1, Malat1, Fxyd5, Ms4a6c, Ptprc, Chd3, AC149090.1, Sell 
+Negative:  Ermap, C1qtnf12, mt-Nd1, Aqp1, Car1, Abcb4, mt-Nd2, Ces2g, Cpox, Atp1b2 
+	   Car2, Tspan33, Rhd, Cldn13, mt-Cytb, Tfrc, Aplp2, Blvrb, Tmem14c, Tnfaip2 
+	   Rhag, Podxl, Mt2, Myh10, Ugcg, Pla2g12a, Tmem56, Paqr9, Hsp90aa1, Hspd1 
+PC_ 4 
+Positive:  H2afy, Ccr2, Emb, C1qtnf12, mt-Nd1, Wfdc17, Hsp90ab1, Cd34, Ms4a6c, Ermap 
+	   Adgrl4, Cd52, Dntt, Ly6a, Egfl7, mt-Nd2, Flt3, Ltb, Fth1, Cd24a 
+	   Sell, Cd53, Sox4, Ccl9, Rplp1, Pou2f2, Ctss, Tyrobp, mt-Cytb, Satb1 
+Negative:  Apoe, Elane, Ctla2a, Pf4, Pbx1, Itga2b, Srgn, Vwf, Malat1, Plxnc1 
+	   Slc18a2, Prtn3, Ctsg, Ms4a2, Mpo, Angpt1, Cpa3, Cd63, Muc13, Slc22a3 
+	   F2r, Mfsd2b, H2-Q7, Slamf1, Serpina3g, Clca3a1, Gata2, Hist1h2ae, Gp9, Tgfbr3 
+PC_ 5 
+Positive:  Elane, Wfdc17, C1qtnf12, Ltb, Prtn3, Ermap, Hlf, Car2, Pim1, Ctsg 
+	   Mpo, Aqp1, Ly6a, Car1, Cldn13, Rhd, Gimap1, Gm42418, Gimap6, Cpox 
+	   Aplp2, Atp1b2, Nceh1, Tfrc, Tspan33, Ifi203, Gstm1, Iigp1, Dst, Nkx2-3 
+Negative:  Ccr2, mt-Nd1, Apoe, Emb, H2afy, Ms4a6c, mt-Cytb, Hist1h2ae, Ifitm1, Ccl9 
+	   mt-Nd4, mt-Nd2, Ly6e, Top2a, Arl6ip1, Ms4a2, Cpa3, Bcl2, Hist1h2ab, mt-Co3 
+	   Cd34, H2afz, Sell, Csf2rb, Igfbp4, H2afx, Tyrobp, Lyz2, Hsp90ab1, Irf8 
+PC_ 1 
+Positive:  Malat1, Xist, mt-Co1, Ctla2a, Angpt1, Adgrl4, Adgrg1, mt-Atp6, Ifi203, mt-Co3 
+	   mt-Cytb, AC149090.1, Tsix, Sox4, mt-Nd4, Meis1, Mef2c, Zbtb20, Ptprcap, Serpina3g 
+	   Nrip1, Itih5, Serinc3, Ltb, Tspan13, Hbb-bt, mt-Nd2, Kmt2a, Car2, Bcl11a 
+Negative:  Elane, Ctsg, Prtn3, Mpo, Ms4a3, Hp, Lcn2, S100a8, Srgn, Wfdc21 
+	   Pglyrp1, Calr, F630028O10Rik, Cd63, Cyba, Igsf6, Nkg7, Slpi, Fcnb, Serpinb1a 
+	   Atp6v0c, Dstn, Alas1, Hspa5, Tspo, B4galt6, Tmsb4x, Camp, Prss57, S100a9 
+PC_ 2 
+Positive:  Ermap, mt-Nd1, Aqp1, Abcb4, Atp1b2, Cpox, Mt2, Tfrc, Cldn13, mt-Nd2 
+	   Tspan33, Rhd, Steap3, C1qtnf12, Rhag, mt-Cytb, Tmem14c, Hspd1, Atp13a3, Tnfaip2 
+	   mt-Atp6, Podxl, Cpd, Ces2g, Cd24a, Pla2g12a, Aplp2, Hsp90aa1, Prxl2a, Slc38a5 
+Negative:  Adgrl4, Ifitm1, Malat1, Ifi203, Angpt1, Ctla2a, H2afy, Srgn, Xist, Ptprc 
+	   Sox4, Ccl9, Ltb, Sell, Ffar2, Cmtm7, Emb, Akap13, AC149090.1, Prtn3 
+	   Ptpre, Elane, Adgrg1, Cd34, Lyz2, Pim1, Ptprcap, S100a6, Zbtb20, Laptm5 
+PC_ 3 
+Positive:  Ccr2, Ifitm1, Emb, Calr, H2afy, Ms4a6c, Ctsg, Ccl9, Prtn3, Hsp90ab1 
+	   Rrbp1, Elane, Ms4a3, Atp8b4, Mpo, Cd34, F630028O10Rik, Igfbp4, Gria3, Hspa5 
+	   mt-Nd1, Lgals1, Gm26917, Cmtm7, Mlec, Srgn, mt-Co3, Ly6e, Pdia6, Itga6 
+Negative:  S100a8, S100a9, Camp, Ngp, Lcn2, Ifitm6, Chil3, Lyz2, Cybb, Ltf 
+	   Cd177, Pglyrp1, Lrg1, Wfdc21, Retnlg, Fcnb, Anxa1, Plbd1, Slfn4, Syne1 
+	   S100a6, Acvrl1, Mmp8, Pirb, Itgb2l, Lgals3, Pilra, AA467197, Lipg, Pde2a 
+PC_ 4 
+Positive:  mt-Atp6, Elane, Gm26917, mt-Co3, Malat1, Xist, mt-Co1, Gm42418, mt-Nd5, mt-Cytb 
+	   mt-Nd2, mt-Nd3, mt-Nd4, Fcnb, Alas1, Mki67, Dstn, Tmx4, Cd63, Angpt1 
+	   Tmbim6, Igsf6, F630028O10Rik, mt-Nd1, Nin, Hp, Kcnq1ot1, Arl6ip1, Wfdc21, Pde4d 
+Negative:  Igkc, Ifitm1, Ighm, Cd74, Wfdc17, Ms4a6c, Rplp1, Rpl41, Rps12, Ccr2 
+	   Cst3, Rpl32, H2-Aa, Cd52, H2-Ab1, Irf8, H2-Eb1, Ctss, Jchain, Rps20 
+	   Rps23, Actb, Rps27a, Mpeg1, H2afy, Ccl9, Rpl18, Rps14, Plbd1, Crip1 
+PC_ 5 
+Positive:  Igkc, Ctla2a, Pf4, Ctsg, Elane, Ighm, Rpl32, Rps20, Rps12, Rps14 
+	   Rpl41, Rps27a, Hbb-bt, Serpina3g, Rps23, Rplp1, Srgn, Mpo, Prtn3, Ptprcap 
+	   Jchain, Pdzk1ip1, Apoe, Rpl18, Cd63, Iigp1, Gp9, Plxnc1, Angpt1, Rps15 
+Negative:  Ccr2, Ms4a6c, mt-Atp6, mt-Co3, mt-Nd1, Emb, Irf8, mt-Co1, Plbd1, mt-Nd5 
+	   Mpeg1, Gm26917, mt-Nd2, Cybb, Rrbp1, H2-Ab1, mt-Cytb, Lyz2, Hsp90ab1, mt-Nd3 
+	   Ccl9, H2afy, H2-Aa, Cd74, H2-Eb1, Ctss, Ciita, mt-Nd4, Naaa, Cd52 
+PC_ 1 
+Positive:  Elane, Mpo, Prtn3, Ctsg, Ms4a3, Calr, Ly6c2, Nkg7, Ccr2, Hp 
+	   Clec12a, Srgn, Atp8b4, Fcgr3, F630028O10Rik, Hspa5, Prss57, Alas1, P4hb, Igsf6 
+	   Emb, Dmkn, Slpi, Ccl9, Lcn2, Cst7, Gstm1, B4galt6, Plac8, Ctsz 
+Negative:  Apoe, Ermap, Aqp1, C1qtnf12, Malat1, Car2, mt-Co1, mt-Nd2, Ctla2a, Car1 
+	   Abcb4, mt-Nd1, mt-Cytb, Ces2g, mt-Nd4, mt-Atp6, Aplp2, Blvrb, Bcl11a, Vamp5 
+	   Cpox, Tspan33, H2-Q7, Pf4, Xist, Ugcg, mt-Co3, Zfpm1, Tspo2, Atp1b2 
+PC_ 2 
+Positive:  C1qtnf12, Ermap, mt-Nd1, Aqp1, mt-Nd2, Abcb4, Tmem14c, Tfrc, Car1, mt-Cytb 
+	   Cpox, Cldn13, Tspan33, Rhd, Ces2g, Atp1b2, Hspd1, Aplp2, Cd24a, Hsp90aa1 
+	   Cpd, Car2, Elane, Hsp90ab1, Rhag, Pla2g12a, Tmem56, Canx, Tspo2, Podxl 
+Negative:  Adgrl4, Ctla2a, Ifitm1, Pim1, H2afy, Malat1, Sox4, Ltb, Adgrg1, Wfdc17 
+	   Tmem176b, Apoe, Ly6a, Ifi203, Cd34, Vldlr, Angpt1, Hlf, mt-Co1, Meis1 
+	   Ptprc, Itih5, Selp, Tmem176a, Gimap1, Laptm5, Akap13, Fxyd5, Sptbn1, Mef2c 
+PC_ 3 
+Positive:  Apoe, Pf4, Itga2b, Vwf, Elane, Pbx1, Ctla2a, Malat1, Timp3, Plxnc1 
+	   Srgn, Treml1, Gp1bb, Mmrn1, Pde10a, F2r, Slc18a2, Prtn3, Rap1b, Itgb3 
+	   Slc14a1, Ctsg, Clca3a1, Pdcd4, Angpt1, Slamf1, Mfsd2b, Mpo, Tbxas1, Gp5 
+Negative:  H2afy, Ccr2, Emb, Ms4a6c, Cd34, Adgrl4, Ccl9, Hsp90ab1, Sell, mt-Nd1 
+	   Flt3, Dntt, Ly6a, Sox4, Wfdc17, Egfl7, Cd53, Irf8, Notch1, mt-Co1 
+	   Ltb, Cd52, Pou2f2, Satb1, Igfbp4, Ramp1, Tmem173, Ctss, Slco3a1, Tyrobp 
+PC_ 4 
+Positive:  Pf4, Ccr2, mt-Nd1, Emb, Ms4a6c, H2afy, mt-Cytb, Vwf, Itga2b, mt-Nd2 
+	   mt-Nd4, Ccl9, Bcl2, Irf8, mt-Co3, F13a1, Timp3, Igfbp4, Gp1bb, Sell 
+	   mt-Atp6, Tyrobp, Mef2c, Treml1, Itgb3, Pbx1, Pde10a, Csf1r, Ly86, Ly6e 
+Negative:  Elane, Ltb, Prtn3, Hlf, Wfdc17, C1qtnf12, Ermap, Pim1, Wfdc21, Gm42418 
+	   Ly6a, Car2, Iigp1, Ctsg, Gimap1, Gimap6, Vldlr, Nceh1, Aplp2, Gstm1 
+	   Cd63, Cd74, Mecom, Malat1, Aqp1, Shisa5, Alas1, Rhd, Adgrl4, Cldn13 
+PC_ 5 
+Positive:  Apoe, Ms4a2, Cpa3, Ifitm1, Fcer1a, Csf2rb, Gm17590, Lmo4, Srgn, Ly6e 
+	   Slc22a3, Slc18a2, Tent5a, Arl6ip1, Fut8, Itga4, Ctla2a, Csrp3, Muc13, Auts2 
+	   Cd63, Gata2, Il1rl1, Ikzf2, Cdk6, Csf2rb2, Malat1, Calr, Cmtm7, Galnt6 
+Negative:  Pf4, Vwf, Timp3, Ltb, Mmrn1, Treml1, Itgb3, Pde10a, Gp1bb, Rap1b 
+	   Pbx1, C1qtnf12, Mef2c, Slc35d3, Itga2b, Ufsp1, Cavin2, Ly6a, Myom1, Ehd3 
+	   Slc14a1, Wfdc17, Tmsb4x, Rab27b, Tbxa2r, Thbs1, Trpc6, Mpl, Gucy1a1, Plek 
+PC_ 1 
+Positive:  Elane, Prtn3, Ctsg, Mpo, Ms4a3, Srgn, Nkg7, Hp, Tmsb4x, Ly6c2 
+	   Calr, Wfdc21, Cd63, Plac8, Slpi, Alas1, F630028O10Rik, Fcnb, Pglyrp1, Prss57 
+	   Cyba, Serpinb1a, Igsf6, Tspo, Clec12a, B4galt6, Fcgr3, Gstm1, Lcn2, Atp8b4 
+Negative:  Ermap, Aqp1, C1qtnf12, mt-Nd2, Atp1b2, mt-Nd1, mt-Co1, Car2, Tfrc, Cldn13 
+	   Rhd, Abcb4, Ctla2a, Tspan33, Cpox, mt-Nd4, Malat1, Tmem14c, mt-Cytb, Hspd1 
+	   Mt2, Cd24a, Steap3, Rhag, Car1, Ces2g, Blvrb, mt-Atp6, Adgrg1, Podxl 
+PC_ 2 
+Positive:  Ctla2a, Adgrl4, Malat1, Ifitm1, H2afy, Angpt1, Ifi203, Adgrg1, Wfdc17, Sox4 
+	   Ptprcap, Xist, Ccl9, Cd34, Ltb, Tmem176b, Ms4a6c, Gm2a, AC149090.1, Akap13 
+	   Pim1, Meis1, S100a6, Zbtb20, Ptprc, Sell, Ptpre, Laptm5, Hlf, Emb 
+Negative:  Ermap, Aqp1, mt-Nd1, C1qtnf12, Tfrc, Atp1b2, Tmem14c, Elane, Cldn13, Rhd 
+	   mt-Nd2, Cpox, Tspan33, Abcb4, Ctsg, Hspd1, Steap3, Cpd, Rhag, Atp13a3 
+	   Ces2g, Tnfaip2, Podxl, Cd24a, Hsp90aa1, Pla2g12a, Ctse, Paqr9, Canx, Aplp2 
+PC_ 3 
+Positive:  Wfdc21, Ctsg, Fcnb, Ctla2a, Cd63, Pf4, Pglyrp1, Elane, Nkg7, Gstm1 
+	   Tmsb4x, Angpt1, Ltb, Srgn, S100a8, Hlf, Hsd11b1, Prss57, Plxnc1, Apoe 
+	   Pdzk1ip1, Meis1, Slc18a2, Zbtb20, Dst, Serpina3g, Vwf, Car2, Dstn, Mpl 
+Negative:  Ccr2, Ms4a6c, Emb, Ifitm1, Ccl9, Wfdc17, H2afy, Lyz2, Irf8, Cd34 
+	   Ctss, Calr, Ly6c2, mt-Nd1, Tyrobp, Cst3, Ly6e, Il6st, Erp29, Cd53 
+	   Mpeg1, Csf1r, F630028O10Rik, Gm2a, Lgals1, mt-Nd2, Hsp90ab1, Pld4, Napsa, Nrp1 
+PC_ 4 
+Positive:  Pf4, Itga2b, Ctla2a, Serpina3g, Ifitm1, Vwf, F2r, Gp1bb, mt-Nd1, Apoe 
+	   Plxnc1, mt-Cytb, Itgb3, Gp5, Cd9, Pbx1, Ifitm3, Slc14a1, Mef2c, Cpa3 
+	   Slc22a3, Ehd3, Cavin2, Pde10a, Treml1, Lat, Rabgap1l, mt-Nd4, Slamf1, Pdcd4 
+Negative:  Ltb, Hlf, Adgrl4, Ifi203, Slc16a11, C1qtnf12, Wfdc17, Ermap, Rhd, Ly6a 
+	   Cldn13, Cd24a, Tfrc, Ahnak, Flt3, Pim1, Atp1b2, Fth1, Iigp1, Ctse 
+	   Sox4, Hbb-bt, Gimap6, Gm19590, Wfdc21, Gpr171, Fcnb, Cd82, Mecom, Nceh1 
+PC_ 5 
+Positive:  Ifitm1, Nkg7, Cpa3, Cd63, Ffar2, Calr, Cd34, Ccl9, Fut8, Ms4a3 
+	   Slco3a1, Ms4a2, Srgn, Gm2a, Vldlr, Tespa1, Adgrl4, Cdk6, Tent5a, Pim1 
+	   Slc28a2, Ramp1, Serpinb1a, Pdgfrb, Myb, Muc13, H2afy, Csf2rb, Cd200r4, Cd48 
+Negative:  Ly6c2, Lyz2, Pf4, Ms4a6c, Cybb, Irf8, Ctsh, Mpeg1, Vwf, Ahnak 
+	   F13a1, Fcnb, Slpi, Psap, Ctss, Pld4, Il6st, Itga1, Hist1h2ae, Ly86 
+	   Tyrobp, Csf1r, Mmrn1, Fcer1g, Mef2c, Ccr2, C3, Tmsb4x, Nrp1, Gm15987 
+Computing within dataset neighborhoods
+Finding all pairwise anchors
+Finding neighborhoods
+Finding anchors
+	Found 28654 anchors
+Finding neighborhoods
+Finding anchors
+	Found 32443 anchors
+Finding neighborhoods
+Finding anchors
+	Found 24850 anchors
+Finding neighborhoods
+Finding anchors
+	Found 18392 anchors
+Finding neighborhoods
+Finding anchors
+	Found 16707 anchors
+Finding neighborhoods
+Finding anchors
+	Found 17226 anchors
+Finding neighborhoods
+Finding anchors
+	Found 33586 anchors
+Finding neighborhoods
+Finding anchors
+	Found 25403 anchors
+Finding neighborhoods
+Finding anchors
+	Found 34324 anchors
+Finding neighborhoods
+Finding anchors
+	Found 17638 anchors
+Finding neighborhoods
+Finding anchors
+	Found 32218 anchors
+Finding neighborhoods
+Finding anchors
+	Found 34587 anchors
+Finding neighborhoods
+Finding anchors
+	Found 28779 anchors
+Finding neighborhoods
+Finding anchors
+	Found 20050 anchors
+Finding neighborhoods
+Finding anchors
+	Found 32987 anchors
+Merging dataset 4 into 6
+Extracting anchors for merged samples
+Finding integration vectors
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Merging dataset 2 into 6 4
+Extracting anchors for merged samples
+Finding integration vectors
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Merging dataset 3 into 5
+Extracting anchors for merged samples
+Finding integration vectors
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Merging dataset 1 into 5 3
+Extracting anchors for merged samples
+Finding integration vectors
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Merging dataset 6 4 2 into 5 3 1
+Extracting anchors for merged samples
+Finding integration vectors
+Finding integration vector weights
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Integrating data
+Warning: Adding a command log without an assay associated with it
+[1] "is.sct.int set to TRUE. Skipping ScaleData()"
+PC_ 1 
+Positive:  Mpo, Elane, Prtn3, Ctsg, Ms4a3, Calr, Ly6c2, Nkg7, Hp, Clec12a 
+	   Srgn, F630028O10Rik, Alas1, Atp8b4, Fcgr3, Igsf6, Wfdc21, Gstm1, Hspa5, Prss57 
+	   Ccr2, P4hb, Dmkn, Lcn2, B4galt6, Pglyrp1, Cst7, Slpi, Cd63, Tmsb4x 
+Negative:  Apoe, Ermap, C1qtnf12, Aqp1, mt-Co1, Ctla2a, Car2, Malat1, mt-Nd2, Car1 
+	   Abcb4, Ces2g, mt-Nd4, Bcl11a, mt-Cytb, Aplp2, Blvrb, Tspan33, mt-Nd1, Xist 
+	   H2-Q7, Cldn13, Vamp5, Cpox, mt-Atp6, Rhd, Tspan13, Atp1b2, Ugcg, Zfpm1 
+PC_ 2 
+Positive:  Adgrl4, Ifitm1, Ctla2a, H2afy, Pim1, Ltb, Wfdc17, Sox4, Tmem176b, Cd34 
+	   Ly6a, Malat1, Ifi203, Adgrg1, Vldlr, Hlf, Ptprc, Apoe, Angpt1, Ramp1 
+	   mt-Co1, Tmem176a, Fxyd5, Itih5, Meis1, Laptm5, Emb, Lyz2, Akap13, Ifitm3 
+Negative:  C1qtnf12, Ermap, mt-Nd1, Aqp1, mt-Nd2, Tfrc, Tmem14c, Abcb4, Cldn13, Rhd 
+	   Tspan33, Car1, Cpox, Atp1b2, mt-Cytb, Ces2g, Aplp2, Cpd, Hspd1, Cd24a 
+	   Car2, Tmem56, Rhag, Podxl, Hsp90aa1, Paqr9, Pla2g12a, Tspo2, Canx, Ctse 
+PC_ 3 
+Positive:  Apoe, Elane, Wfdc21, Ctla2a, S100a8, Srgn, Itga2b, Pf4, Malat1, Cd63 
+	   Pbx1, Vwf, Nkg7, Gstm1, Slc18a2, Prtn3, Fcnb, Plxnc1, Alas1, Ltb4r1 
+	   Ctsg, Angpt1, H2-Q7, Tmsb4x, Dstn, Pglyrp1, S100a9, Prom1, F2r, B4galt6 
+Negative:  Ccr2, Emb, Ms4a6c, H2afy, Irf8, Ccl9, mt-Nd1, F13a1, Cd34, Sell 
+	   Hsp90ab1, Tyrobp, Ly86, Mpeg1, Csf1r, Psap, Ctss, Gria3, Erp29, Igfbp4 
+	   Cd52, mt-Nd2, Nrp1, Il6st, Cd53, Ly6e, Flt3, Glipr1, Ctsz, Pld4 
+PC_ 4 
+Positive:  S100a8, Ltb, Wfdc21, S100a9, Wfdc17, Fcnb, C1qtnf12, Ly6c2, Ly6a, Ermap 
+	   Ngp, Hlf, Rhd, Cybb, Gstm1, Iigp1, Ltf, Lyz2, Ifi203, Cd74 
+	   Gimap6, Adgrl4, Cldn13, Pglyrp1, Shisa5, C3, Ifitm6, Hp, Pirb, Gm42418 
+Negative:  Apoe, Itga2b, Ccr2, Calr, Pf4, Ifitm1, mt-Nd1, Vwf, Ctla2a, Cpa3 
+	   Pbx1, Ms4a2, Slc22a3, Muc13, Ccl9, Bcl2, Ly6e, Emb, F2r, Csf2rb 
+	   Plxnc1, mt-Nd2, Fcer1a, Fut8, Mlec, Itga6, Arl6ip1, Hist1h2ae, mt-Cytb, Rrbp1 
+PC_ 5 
+Positive:  Elane, Calr, Adgrl4, Ltb, Prtn3, Pim1, Mpo, Ctsg, Ms4a3, Ly6a 
+	   Ifitm1, Hlf, Hspa5, Nkg7, Cd63, Cd34, Wfdc17, Vldlr, Hsp90ab1, Gm26917 
+	   Slco3a1, Prss57, Ssr2, H2afy, Ifi203, Iigp1, Nceh1, C1qtnf12, Rps6ka3, Fkbp11 
+Negative:  Ly6c2, Cybb, Lyz2, S100a8, Apoe, Ms4a6c, Mpeg1, F13a1, Psap, S100a9 
+	   Irf8, Pf4, Ly86, Fcnb, Tyrobp, Itga2b, Tmsb4x, Pirb, Hp, Wfdc21 
+	   Ifitm6, Vwf, Chil3, Klf4, Ahnak, Ngp, Gm15987, Ltf, S100a6, Itga1 
+Warning: The default method for RunUMAP has changed from calling Python UMAP via reticulate to the R-native UWOT using the cosine metric
+To use Python UMAP via reticulate, set umap.method to 'umap-learn' and metric to 'correlation'
+This message will be shown once per session
+10:02:32 UMAP embedding parameters a = 0.9922 b = 1.112
+10:02:32 Read 48379 rows and found 30 numeric columns
+10:02:32 Using Annoy for neighbor search, n_neighbors = 30
+10:02:32 Building Annoy index with metric = cosine, n_trees = 50
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+10:02:40 Writing NN index file to temp file /tmp/Rtmph8SMo6/file36e149df3d5b
+10:02:40 Searching Annoy index using 1 thread, search_k = 3000
+10:03:02 Annoy recall = 100%
+10:03:04 Commencing smooth kNN distance calibration using 1 thread
+10:03:09 Initializing from normalized Laplacian + noise
+10:03:14 Commencing optimization for 200 epochs, with 2269250 positive edges
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+10:04:21 Optimization finished
+Computing nearest neighbor graph
+Computing SNN
+Modularity Optimizer version 1.3.0 by Ludo Waltman and Nees Jan van Eck
+
+Number of nodes: 48379
+Number of edges: 2293552
+
+Running Louvain algorithm...
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Maximum modularity in 10 random starts: 0.8911
+Number of communities: 22
+Elapsed time: 15 seconds
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Joining with `by = join_by(cluster)`
+Joining with `by = join_by(cluster)`
+Joining with `by = join_by(cluster)`
+Joining with `by = join_by(cluster)`
+Joining with `by = join_by(cluster)`
+Joining with `by = join_by(cluster)`
+[1] "sample..KO_rep1"
+[1] "sample..KO_rep2"
+[1] "sample..KO_rep3"
+[1] "sample..WT_rep1"
+[1] "sample..WT_rep2"
+[1] "sample..WT_rep3"
+The default behaviour of split.by has changed.
+Separate violin plots are now plotted side-by-side.
+To restore the old behaviour of a single split violin,
+set split.plot = TRUE.
+      
+This message will be shown once per session.
+[1] "Hlf"
+[1] "Procr"
+[1] "Fgd5"
+[1] "Hoxb5"
+[1] "Kit"
+[1] "Ly6a"
+[1] "Ly6e"
+[1] "Slamf1"
+[1] "Cd34"
+[1] "Irf8"
+[1] "Csf1r"
+[1] "Ly86"
+[1] "Elane"
+[1] "Gfi1"
+[1] "Cebpe"
+[1] "Gstm1"
+[1] "Fcnb"
+[1] "Ltf"
+[1] "Klf1"
+[1] "Epor"
+[1] "Gata1"
+[1] "Pf4"
+[1] "Itga2b"
+[1] "Gp1bb"
+[1] "Prg2"
+[1] "Prg3"
+[1] "Dntt"
+[1] "Rag1"
+[1] "Ccl5"
+[1] "Tcf7"
+[1] "B2m"
+[1] "Gata3"
+[1] "Il7r"
+[1] "Cd4"
+[1] "Cd8a"
+[1] "Dntt"
+[1] "Rag1"
+[1] "Cd19"
+[1] "Vpreb2"
+[1] "Prdm1"
+[1] "Sdc1"
+[1] "Prss34"
+[1] "C1qb"
+[1] "Siglech"
+[1] "Cd74"
+[1] "Hlf"
+[1] "Procr"
+[1] "Fgd5"
+[1] "Hoxb5"
+[1] "Kit"
+[1] "Ly6a"
+[1] "Ly6e"
+[1] "Slamf1"
+[1] "Cd34"
+[1] "Irf8"
+[1] "Csf1r"
+[1] "Ly86"
+[1] "Elane"
+[1] "Gfi1"
+[1] "Cebpe"
+[1] "Gstm1"
+[1] "Fcnb"
+[1] "Ltf"
+[1] "Klf1"
+[1] "Epor"
+[1] "Gata1"
+[1] "Pf4"
+[1] "Itga2b"
+[1] "Gp1bb"
+[1] "Prg2"
+[1] "Prg3"
+[1] "Dntt"
+[1] "Rag1"
+[1] "Ccl5"
+[1] "Tcf7"
+[1] "B2m"
+[1] "Gata3"
+[1] "Il7r"
+[1] "Cd4"
+[1] "Cd8a"
+[1] "Dntt"
+[1] "Rag1"
+[1] "Cd19"
+[1] "Vpreb2"
+[1] "Prdm1"
+[1] "Sdc1"
+[1] "Prss34"
+[1] "C1qb"
+[1] "Siglech"
+[1] "Cd74"
+[1] "Mki67"
+[1] "Cdk1"
+[1] "Top2a"
+[1] "Mki67"
+[1] "Cdk1"
+[1] "Top2a"
+[1] "Cd19"
+[1] "B2m"
+[1] "Cd4"
+[1] "Cd8a"
+[1] "Itgax"
+[1] "Itgam"
+[1] "Ly6c1"
+[1] "Ly6c2"
+[1] "Ly6g"
+[1] "Klrb1b"
+[1] "Hba-a1"
+[1] "Prss34"
+[1] "Cd19"
+[1] "B2m"
+[1] "Cd4"
+[1] "Cd8a"
+[1] "Itgax"
+[1] "Itgam"
+[1] "Ly6c1"
+[1] "Ly6c2"
+[1] "Ly6g"
+[1] "Klrb1b"
+[1] "Hba-a1"
+[1] "Prss34"
+[1] "Ly6a"
+[1] "Kit"
+[1] "Slamf1"
+[1] "Cd48"
+[1] "Cd34"
+[1] "Fcgr3"
+[1] "Fcgr2b"
+[1] "Hlf"
+[1] "Ly6a"
+[1] "Kit"
+[1] "Slamf1"
+[1] "Cd48"
+[1] "Cd34"
+[1] "Fcgr3"
+[1] "Fcgr2b"
+[1] "Hlf"
+[1] "Flt3"
+[1] "Il7r"
+[1] "Dntt"
+[1] "Flt3"
+[1] "Il7r"
+[1] "Dntt"
+[1] "Irf8"
+[1] "Gata1"
+[1] "Gata2"
+[1] "Cebpa"
+[1] "Runx1"
+[1] "Gfi1"
+[1] "Cebpe"
+[1] "Itgam"
+[1] "Mmp9"
+[1] "Tlr4"
+[1] "Il1b"
+[1] "S100a8"
+[1] "Spi1"
+[1] "Irf8"
+[1] "Gata1"
+[1] "Gata2"
+[1] "Cebpa"
+[1] "Runx1"
+[1] "Gfi1"
+[1] "Cebpe"
+[1] "Itgam"
+[1] "Mmp9"
+[1] "Tlr4"
+[1] "Il1b"
+[1] "S100a8"
+[1] "Spi1"
+[1] "Irf8"
+[1] "Spi1"
+[1] "Gata2"
+[1] "Klf4"
+[1] "Cxcr4"
+[1] "Ccr2"
+[1] "Irf8"
+[1] "Spi1"
+[1] "Gata2"
+[1] "Klf4"
+[1] "Cxcr4"
+[1] "Ccr2"
+[1] "Irf8"
+[1] "Irf4"
+[1] "Batf3"
+[1] "Zbtb46"
+[1] "Itgax"
+[1] "Sirpa"
+[1] "Csf1r"
+[1] "Siglech"
+[1] "Irf8"
+[1] "Irf4"
+[1] "Batf3"
+[1] "Zbtb46"
+[1] "Itgax"
+[1] "Sirpa"
+[1] "Csf1r"
+[1] "Siglech"
+[1] "Klf1"
+[1] "Epor"
+[1] "Car1"
+[1] "Mt2"
+[1] "Rhd"
+[1] "Klf1"
+[1] "Epor"
+[1] "Car1"
+[1] "Mt2"
+[1] "Rhd"
+[1] "Pf4"
+[1] "Itga2b"
+[1] "Vwf"
+[1] "Pf4"
+[1] "Itga2b"
+[1] "Vwf"
+[1] "Gata1"
+[1] "Gata2"
+[1] "Gfi1b"
+[1] "Mfsd2b"
+[1] "Gata1"
+[1] "Gata2"
+[1] "Gfi1b"
+[1] "Mfsd2b"
+[1] "Flt3"
+[1] "Klrb1c"
+[1] "Ncr1"
+[1] "Il2rb"
+[1] "Il7r"
+[1] "Cd27"
+[1] "Itgam"
+[1] "B2m"
+[1] "B2m"
+[1] "B2m"
+[1] "Rora"
+[1] "Tmem176a"
+[1] "Cxcr6"
+[1] "Flt3"
+[1] "Klrb1c"
+[1] "Ncr1"
+[1] "Il2rb"
+[1] "Il7r"
+[1] "Cd27"
+[1] "Itgam"
+[1] "B2m"
+[1] "B2m"
+[1] "B2m"
+[1] "Rora"
+[1] "Tmem176a"
+[1] "Cxcr6"
+[1] "B2m"
+[1] "B2m"
+[1] "B2m"
+[1] "B2m"
+[1] "B2m"
+[1] "B2m"
+[1] "B2m"
+[1] "B2m"
+[1] "B2m"
+[1] "B2m"
+[1] "B2m"
+[1] "B2m"
+[1] "B2m"
+[1] "B2m"
+[1] "B2m"
+[1] "B2m"
+[1] "B2m"
+[1] "B2m"
+[1] "B2m"
+[1] "Rora"
+[1] "Zbtb16"
+[1] "Gata3"
+[1] "Gata3"
+[1] "Arg1"
+[1] "Il2ra"
+[1] "B2m"
+[1] "Ncr1"
+[1] "Klrb1c"
+[1] "B2m"
+[1] "B2m"
+[1] "Il2rb"
+[1] "Cd27"
+[1] "B2m"
+[1] "B2m"
+[1] "B2m"
+[1] "S1pr5"
+[1] "Gzma"
+[1] "Itga2"
+[1] "Itga1"
+[1] "B2m"
+[1] "Tmem176a"
+[1] "Cxcr6"
+[1] "B2m"
+[1] "Cd4"
+[1] "Cd8a"
+[1] "B2m"
+[1] "Rora"
+[1] "Zbtb16"
+[1] "Gata3"
+[1] "Gata3"
+[1] "Arg1"
+[1] "Il2ra"
+[1] "B2m"
+[1] "Ncr1"
+[1] "Klrb1c"
+[1] "B2m"
+[1] "B2m"
+[1] "Il2rb"
+[1] "Cd27"
+[1] "B2m"
+[1] "B2m"
+[1] "B2m"
+[1] "S1pr5"
+[1] "Gzma"
+[1] "Itga2"
+[1] "Itga1"
+[1] "B2m"
+[1] "Tmem176a"
+[1] "Cxcr6"
+[1] "B2m"
+[1] "Cd4"
+[1] "Cd8a"
+[1] "Tsix"
+[1] "Xist"
+[1] "Tsix"
+[1] "Xist"
+There were 50 or more warnings (use warnings() to see the first 50)
+                samples int__0 int__1 int__2 int__3 int__4 int__5 int__6 int__7
+KO_rep1__0   KO_rep1__0    818      0     20      0    232      0     37      0
+KO_rep1__1   KO_rep1__1     37      1    343      0    139    367     74      0
+KO_rep1__2   KO_rep1__2      0    597    332      0      0      8      0      0
+KO_rep1__3   KO_rep1__3      0    760     33      0      0     40      0      0
+KO_rep1__4   KO_rep1__4      0      0      0      0      1      0      2      0
+KO_rep1__5   KO_rep1__5      0      1      2      0      0      1      1      0
+KO_rep1__6   KO_rep1__6      0     22      5      0      0      0      0      0
+KO_rep1__7   KO_rep1__7      0      0      0    289      0      0      0    101
+KO_rep1__8   KO_rep1__8      0      6     12      0      2      1      0      0
+KO_rep1__9   KO_rep1__9      0      0      0    244      0      0      0     96
+KO_rep1__10 KO_rep1__10      0      0     12      0      0    343      0      0
+KO_rep1__11 KO_rep1__11      8      0      8      0      0      0    267      0
+KO_rep2__0   KO_rep2__0      5      0     14      0      8      2      4      1
+KO_rep2__1   KO_rep2__1      1      0     14      0      1      4      3      3
+KO_rep2__2   KO_rep2__2      3      0      4      0      8      0      0      0
+KO_rep2__3   KO_rep2__3      0     29      9      0      3      5      0      0
+KO_rep2__4   KO_rep2__4    386      0     19      0    165      1      5      0
+KO_rep2__5   KO_rep2__5      0    284    354      0     55    108      8      0
+KO_rep2__6   KO_rep2__6      0      2      0      1      3      0      0      0
+KO_rep2__7   KO_rep2__7      0      0      4      0      0      0      0      0
+KO_rep2__8   KO_rep2__8      4      0     29      0      3     14    279      1
+KO_rep2__9   KO_rep2__9      0      0      0      5      1      0      0      2
+KO_rep2__10 KO_rep2__10      0      0      0    227      0      0      0     98
+KO_rep2__11 KO_rep2__11      0      0      0      0      0      0      0      0
+KO_rep2__12 KO_rep2__12      0      1      0      0      1      0      0      0
+KO_rep2__13 KO_rep2__13      0      0      0      0      0      3      0      0
+KO_rep3__0   KO_rep3__0   1131      0     14      0    171      0     12      0
+KO_rep3__1   KO_rep3__1      0      0      0   1144      0      0      0    460
+KO_rep3__2   KO_rep3__2     20      0    321      0    375    217     57      0
+KO_rep3__3   KO_rep3__3      0    332    379      0     40     19      6      0
+KO_rep3__4   KO_rep3__4      0      0      0      0      5      0     13      0
+KO_rep3__5   KO_rep3__5      0    741      3      0      0      1      0      0
+KO_rep3__6   KO_rep3__6      5      0     13      0      3      0    370      0
+KO_rep3__7   KO_rep3__7      0     50      5      0      0    321      0      0
+KO_rep3__8   KO_rep3__8      5      0      0      0      0      0      2      0
+WT_rep1__0   WT_rep1__0      0    546     56      0      0      8      0      0
+WT_rep1__1   WT_rep1__1    943      1      7      0    205      1     61      0
+WT_rep1__2   WT_rep1__2      0      0      0   1274      0      0      0    301
+WT_rep1__3   WT_rep1__3      5    119    660      1     38     16      1      3
+WT_rep1__4   WT_rep1__4      9      2    375      0    543     13    490      0
+WT_rep1__5   WT_rep1__5     10      0      0      0      0      0      2      0
+WT_rep1__6   WT_rep1__6      0      0      0     22      0      0      0    424
+WT_rep1__7   WT_rep1__7      1     14    148      0      6    572      4      0
+WT_rep1__8   WT_rep1__8      1      0      0      0     12      0     11      0
+WT_rep1__9   WT_rep1__9      0     18      0      0      0      0      0      0
+WT_rep1__10 WT_rep1__10      0      0      1      7      0      0      0      6
+WT_rep1__11 WT_rep1__11      2      0      0      0      0     10      1      0
+WT_rep1__12 WT_rep1__12      0      0      0      0      0      0      0      0
+WT_rep1__15 WT_rep1__15      0      2      1      0      0      0      0      0
+WT_rep2__0   WT_rep2__0    842      0      1      0    156      0      4      0
+WT_rep2__1   WT_rep2__1      0    158    714      0     82    216     14      0
+WT_rep2__2   WT_rep2__2     15      0     83      0    415      7      9      0
+WT_rep2__3   WT_rep2__3      7      0      0      0     25      0      0      0
+WT_rep2__4   WT_rep2__4      0      0      0     19      0      0      0    450
+WT_rep2__5   WT_rep2__5      0    556     46      0      0     23      0      0
+WT_rep2__6   WT_rep2__6      0      0     47      0      9      3    478      0
+WT_rep2__7   WT_rep2__7     10      2      0      0      1      1      2      5
+WT_rep2__8   WT_rep2__8      0      0      0    422      0      0      0     32
+WT_rep2__9   WT_rep2__9      0      0      0      0      0      0      3      0
+WT_rep2__10 WT_rep2__10      0      0      0      0      0      0      1      0
+WT_rep2__12 WT_rep2__12      0      0      0      0      0      0      0      0
+WT_rep2__13 WT_rep2__13      0      0      0      0      0      0      0      0
+WT_rep2__15 WT_rep2__15      0      0      0      0      0     25      0      0
+WT_rep3__0   WT_rep3__0    506      0    119      0    605      3     35      0
+WT_rep3__1   WT_rep3__1      0      0      0    880      0      0      0    558
+WT_rep3__2   WT_rep3__2      0     89    620      0    197    324     52      0
+WT_rep3__3   WT_rep3__3      0    641     44      0      0     44      0      0
+WT_rep3__4   WT_rep3__4    476      0      0      0      1      0      1      0
+WT_rep3__5   WT_rep3__5      3      0      0      0      3      0      1      0
+WT_rep3__6   WT_rep3__6      0      0      0      0      0      0      7     15
+WT_rep3__7   WT_rep3__7      0      0      1      0      0      0      0     65
+WT_rep3__8   WT_rep3__8      9     14      3      0      1      1      0      0
+WT_rep3__9   WT_rep3__9      1      0     16      0      0      0    345      0
+WT_rep3__10 WT_rep3__10      0      0      0      0      2      0      2      0
+WT_rep3__11 WT_rep3__11      0      0      0      0      0      0      0      0
+WT_rep3__13 WT_rep3__13      2      0      0      0      0      2      1      0
+total             total   5265   4988   4891   4535   3517   2724   2665   2621
+            int__8 int__9 int__10 int__11 int__12 int__13 int__14 int__15
+KO_rep1__0     150    151       1      11      22     115       0      20
+KO_rep1__1       1     95       0      19       0     102       0       7
+KO_rep1__2       0      0       0      53       0       0      53       4
+KO_rep1__3       0      0       0      31       0       0      34       2
+KO_rep1__4     179      0     145       0     177       0       0      18
+KO_rep1__5       3      0       0       1       1       0       0       0
+KO_rep1__6       0      0       0       0       0       0     605       0
+KO_rep1__7       1      0       3       0       0       0       0       0
+KO_rep1__8       0      1       0       2       0       0       0       2
+KO_rep1__9      18      0      20       0       2       0       0       0
+KO_rep1__10      0      0       0       3       0       0       0       0
+KO_rep1__11      2      4      15       8       0       0       0       4
+KO_rep2__0       0      2       0      13       1       1       0       0
+KO_rep2__1       2      0       2      13       1       0       0       1
+KO_rep2__2       1      1       0       7       1       1       2       0
+KO_rep2__3       0      0       0       2       0       0       3       2
+KO_rep2__4      55    110       2      24      17      49       0      33
+KO_rep2__5       0      1       0      21       2      11      58      10
+KO_rep2__6       0      0       0       0       0       0       2       0
+KO_rep2__7       0      2       0       0       0       0       1       0
+KO_rep2__8     107      6     105      24      23       0       0      59
+KO_rep2__9       0      0       0       1       0       0       0       0
+KO_rep2__10      1      0       2       0       0       0       0       1
+KO_rep2__11      0      0       0       0       0       0      23       0
+KO_rep2__12      0      0       0       0       0       0       0       0
+KO_rep2__13      0      0       0       0       0       0       0       0
+KO_rep3__0     133    318       5      81      36     140       6      28
+KO_rep3__1      15      0      12       4       0       0       1       0
+KO_rep3__2       3     33       0      18       2      98       1      21
+KO_rep3__3       1      0       0      20       5       7       1      47
+KO_rep3__4     253      2     171       7     118       0       0     109
+KO_rep3__5       0      0       0       2       0       0      95       1
+KO_rep3__6       0     10      34      10       0       1       0       2
+KO_rep3__7       0      0       0       1       0       0       0       0
+KO_rep3__8       0      1       0       0       0       0       0       0
+WT_rep1__0       3      0       1       3       0       2      10       1
+WT_rep1__1      37    246       1      28       2     236       9       0
+WT_rep1__2       1      0       1       2       0       0       0       0
+WT_rep1__3       6      0       0      87       2       1       0       3
+WT_rep1__4       9     60       8      77       1       7       3      28
+WT_rep1__5      41      0      68       2     119       0       2       2
+WT_rep1__6     191      0     138       3      15       0       0       0
+WT_rep1__7       0      0       0       3       0       1       0       0
+WT_rep1__8       6      1       8       0      80       0       0     299
+WT_rep1__9       1      2       0      39       0       0     100       0
+WT_rep1__10      1      0       0       1       0       0       0       0
+WT_rep1__11      0      5       0       0       0      15       0       0
+WT_rep1__12      0      0       0       0       0       0       0       0
+WT_rep1__15      1      0       0       2       0       0       0       0
+WT_rep2__0       5    128       0       7       1     278       2       0
+WT_rep2__1       0      0       0       7       0       1       1       2
+WT_rep2__2       0    341       0       4       0      13       0      10
+WT_rep2__3     474      7      11       3     420       0       0      14
+WT_rep2__4      74      0     149       0       3       0       0       0
+WT_rep2__5       0      0       0       0       0       0      27       0
+WT_rep2__6       0     11       7       8       0       1       0       0
+WT_rep2__7       1      2      10     428       0       1       0       0
+WT_rep2__8       0      0       0       0       0       0       0       0
+WT_rep2__9      12      0     365       1       5       0       0       4
+WT_rep2__10      2      0       1       2       7       0       0     198
+WT_rep2__12      0      0       0       0       0       0     126       0
+WT_rep2__13      1      0       1       0       1       0       0       0
+WT_rep2__15      0      0       0       0       0       0       0       0
+WT_rep3__0      34    420       0       9       0      12       0       3
+WT_rep3__1       2      0       3       0       0       0       0       0
+WT_rep3__2       0      0       0       6       0       2       1      17
+WT_rep3__3       0      0       0       0       0       0      25       0
+WT_rep3__4       2      7       0       7       0     134       1       0
+WT_rep3__5     386      3      17       4     245       0       0       6
+WT_rep3__6      20      0     457       1       1       0       0       2
+WT_rep3__7     341      1      12       1      41       0       0       2
+WT_rep3__8       2      5       4     405       0       0       0       0
+WT_rep3__9       0      3       2       1       0       0       0       2
+WT_rep3__10      9      0       4       1      24       0       0     209
+WT_rep3__11      5      0      13       0       1       0       0       0
+WT_rep3__13      0      4       0       1       0       6       0       0
+total         2592   1983    1798    1519    1376    1235    1192    1173
+            int__16 int__17 int__18 int__19 int__20 int__21 total
+KO_rep1__0       13     202     122       0       0      11  1925
+KO_rep1__1      175      14      10       0       0       1  1385
+KO_rep1__2        0       0       1       0       0       1  1049
+KO_rep1__3        0       0       2       0       0       0   902
+KO_rep1__4        0       0       7     224       0       0   753
+KO_rep1__5        0       0       0       0       0       1    11
+KO_rep1__6        0       0       0       0       0       1   633
+KO_rep1__7        0       0       2       1       9       0   406
+KO_rep1__8        0       0       0       0       0       0    26
+KO_rep1__9        0       0       3       1      44       0   428
+KO_rep1__10       0       0       0       0       0       0   358
+KO_rep1__11       7       1       6       0       0       1   331
+KO_rep2__0        1       3       2       0       0       3    60
+KO_rep2__1        0       0       1       1       0       0    47
+KO_rep2__2        0       1       0       0       0       2    31
+KO_rep2__3        0       0       0       0       0       0    53
+KO_rep2__4       19      82     112       0       0      14  1093
+KO_rep2__5        8       0       2       0       0       1   923
+KO_rep2__6        0       0       0       0       0       0     8
+KO_rep2__7        0       0       0       0       0       0     7
+KO_rep2__8       14       0       5      68       0       2   743
+KO_rep2__9        0       0       0       0       0       0     9
+KO_rep2__10       0       0       0       0      14       0   343
+KO_rep2__11       0       0       0       0       0       0    23
+KO_rep2__12       0       0       0       0       0       9    11
+KO_rep2__13       4       0       0       0       0      15    22
+KO_rep3__0       83     187     107       0       0      38  2490
+KO_rep3__1        0       0       2       1      52       0  1691
+KO_rep3__2       42       2       1       0       0       2  1213
+KO_rep3__3        0       0       3       0       0       0   860
+KO_rep3__4        0       0       5     139       0       2   824
+KO_rep3__5        0       0       1       1       0       1   846
+KO_rep3__6       22       1       4       0       0       0   475
+KO_rep3__7        0       0       0       1       0       1   379
+KO_rep3__8        2       0     125       0       0       0   135
+WT_rep1__0        1       0       2       4       0       0   637
+WT_rep1__1       17     161     135       1       0       7  2098
+WT_rep1__2        0       0       2       0      83       0  1664
+WT_rep1__3        3       0       2       5       0       1   953
+WT_rep1__4       16       1       3       2       0       1  1648
+WT_rep1__5        0       0       0      13       0       0   259
+WT_rep1__6        0       0       1       2       0       0   796
+WT_rep1__7        0       0       1       0       0       0   750
+WT_rep1__8        1       0       0       0       0       0   419
+WT_rep1__9        1       0       0       1       0       0   162
+WT_rep1__10       0       0       1       1       0       0    18
+WT_rep1__11     210      13       1       0       0      28   285
+WT_rep1__12       0       0       0      16       0       0    16
+WT_rep1__15       1       1       1       0       0      14    23
+WT_rep2__0       14     176     141       0       0       7  1762
+WT_rep2__1        1       0       0       0       0       0  1196
+WT_rep2__2      227      21       6       0       0       0  1151
+WT_rep2__3        0       1       1      24       0       0   987
+WT_rep2__4        0       0       2       0       0       0   697
+WT_rep2__5        1       0       0       0       0       0   653
+WT_rep2__6       56       0       2       0       0       1   623
+WT_rep2__7        2       1      13       0       0       0   479
+WT_rep2__8        0       0       0       0      24       0   478
+WT_rep2__9        0       0       1      14       0       0   405
+WT_rep2__10       0       0       0       0       0       0   211
+WT_rep2__12       0       0       0       0       0       0   126
+WT_rep2__13       0       0       0     120       0       0   123
+WT_rep2__15       0       0       0       0       0       0    25
+WT_rep3__0       56      29       6       0       0       4  1841
+WT_rep3__1        0       0       0       0      22       0  1465
+WT_rep3__2        1       0       0       0       0       3  1312
+WT_rep3__3        0       0       0       0       0       0   754
+WT_rep3__4        5      32      69       0       0      18   753
+WT_rep3__5        0       0       1      18       0       0   687
+WT_rep3__6        0       0       2       0       0       0   505
+WT_rep3__7        0       0       1       0       0       0   465
+WT_rep3__8        0       1       0       0       0       0   445
+WT_rep3__9       18       0       0       0       0       0   388
+WT_rep3__10       1       0       0       0       0       0   252
+WT_rep3__11       0       0       0     191       0       0   210
+WT_rep3__13     146       3       0       0       0       0   165
+total          1168     933     917     849     248     190 48379
+Joining with `by = join_by(cells)`
+Joining with `by = join_by(cells)`
+Joining with `by = join_by(cells)`
+Joining with `by = join_by(cells)`
+Joining with `by = join_by(cells)`
+Joining with `by = join_by(cells)`
+[1] "IntClus_0"
+[1] "IntClus_1"
+[1] "IntClus_2"
+[1] "IntClus_3"
+[1] "IntClus_4"
+[1] "IntClus_5"
+[1] "IntClus_6"
+[1] "IntClus_7"
+[1] "IntClus_8"
+[1] "IntClus_9"
+[1] "IntClus_10"
+[1] "IntClus_11"
+[1] "IntClus_12"
+[1] "IntClus_13"
+[1] "IntClus_14"
+[1] "IntClus_15"
+[1] "IntClus_16"
+[1] "IntClus_17"
+[1] "IntClus_18"
+[1] "IntClus_19"
+[1] "IntClus_20"
+[1] "IntClus_21"
+[1] "IntClus_0"
+[1] "IntClus_1"
+[1] "IntClus_2"
+[1] "IntClus_3"
+[1] "IntClus_4"
+[1] "IntClus_5"
+[1] "IntClus_6"
+[1] "IntClus_7"
+[1] "IntClus_8"
+[1] "IntClus_9"
+[1] "IntClus_10"
+[1] "IntClus_11"
+[1] "IntClus_12"
+[1] "IntClus_13"
+[1] "IntClus_14"
+[1] "IntClus_15"
+[1] "IntClus_16"
+[1] "IntClus_17"
+[1] "IntClus_18"
+[1] "IntClus_19"
+[1] "IntClus_20"
+[1] "IntClus_21"
+[1] "IntClus_0"
+[1] "IntClus_1"
+[1] "IntClus_2"
+[1] "IntClus_3"
+[1] "IntClus_4"
+[1] "IntClus_5"
+[1] "IntClus_6"
+[1] "IntClus_7"
+[1] "IntClus_8"
+[1] "IntClus_9"
+[1] "IntClus_10"
+[1] "IntClus_11"
+[1] "IntClus_12"
+[1] "IntClus_13"
+[1] "IntClus_14"
+[1] "IntClus_15"
+[1] "IntClus_16"
+[1] "IntClus_17"
+[1] "IntClus_18"
+[1] "IntClus_19"
+[1] "IntClus_20"
+[1] "IntClus_21"
+[1] "IntClus_0"
+[1] "IntClus_1"
+[1] "IntClus_2"
+[1] "IntClus_3"
+[1] "IntClus_4"
+[1] "IntClus_5"
+[1] "IntClus_6"
+[1] "IntClus_7"
+[1] "IntClus_8"
+[1] "IntClus_9"
+[1] "IntClus_10"
+[1] "IntClus_11"
+[1] "IntClus_12"
+[1] "IntClus_13"
+[1] "IntClus_14"
+[1] "IntClus_15"
+[1] "IntClus_16"
+[1] "IntClus_17"
+[1] "IntClus_18"
+[1] "IntClus_19"
+[1] "IntClus_20"
+[1] "IntClus_21"
+[1] "IntClus_0"
+[1] "IntClus_1"
+[1] "IntClus_2"
+[1] "IntClus_3"
+[1] "IntClus_4"
+[1] "IntClus_5"
+[1] "IntClus_6"
+[1] "IntClus_7"
+[1] "IntClus_8"
+[1] "IntClus_9"
+[1] "IntClus_10"
+[1] "IntClus_11"
+[1] "IntClus_12"
+[1] "IntClus_13"
+[1] "IntClus_14"
+[1] "IntClus_15"
+[1] "IntClus_16"
+[1] "IntClus_17"
+[1] "IntClus_18"
+[1] "IntClus_19"
+[1] "IntClus_20"
+[1] "IntClus_21"
+[1] "IntClus_0"
+[1] "IntClus_1"
+[1] "IntClus_2"
+[1] "IntClus_3"
+[1] "IntClus_4"
+[1] "IntClus_5"
+[1] "IntClus_6"
+[1] "IntClus_7"
+[1] "IntClus_8"
+[1] "IntClus_9"
+[1] "IntClus_10"
+[1] "IntClus_11"
+[1] "IntClus_12"
+[1] "IntClus_13"
+[1] "IntClus_14"
+[1] "IntClus_15"
+[1] "IntClus_16"
+[1] "IntClus_17"
+[1] "IntClus_18"
+[1] "IntClus_19"
+[1] "IntClus_20"
+[1] "IntClus_21"
+[1] "IntClus_0"
+[1] "IntClus_1"
+[1] "IntClus_2"
+[1] "IntClus_3"
+[1] "IntClus_4"
+[1] "IntClus_5"
+[1] "IntClus_6"
+[1] "IntClus_7"
+[1] "IntClus_8"
+[1] "IntClus_9"
+[1] "IntClus_10"
+[1] "IntClus_11"
+[1] "IntClus_12"
+[1] "IntClus_13"
+[1] "IntClus_14"
+[1] "IntClus_15"
+[1] "IntClus_16"
+[1] "IntClus_17"
+[1] "IntClus_18"
+[1] "IntClus_19"
+[1] "IntClus_20"
+[1] "IntClus_21"
+NULL
+There were 50 or more warnings (use warnings() to see the first 50)

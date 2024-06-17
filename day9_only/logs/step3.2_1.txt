@@ -1,0 +1,184 @@
+nohup: ignoring input
+[1] "using archr.get.cells.grid. A similar function is get.cell.list()"
+[1] "using these samples for filtering: \nWT_rep2\nWT_rep3\nKO_rep3"
+converting counts to integer mode
+[1] "using median locfunc"
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+Joining with `by = join_by(gene)`
+[1] "using archr.get.cells.grid. A similar function is get.cell.list()"
+[1] "using these samples for filtering: \nWT_rep2\nWT_rep3\nKO_rep3"
+converting counts to integer mode
+[1] "using median locfunc"
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+Joining with `by = join_by(gene)`
+[1] "using archr.get.cells.grid. A similar function is get.cell.list()"
+[1] "using these samples for filtering: \nWT_rep2\nWT_rep3\nKO_rep3"
+converting counts to integer mode
+[1] "using median locfunc"
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+Joining with `by = join_by(gene)`
+[1] "using archr.get.cells.grid. A similar function is get.cell.list()"
+[1] "using these samples for filtering: \nWT_rep2\nWT_rep3\nKO_rep3"
+converting counts to integer mode
+[1] "using median locfunc"
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+Joining with `by = join_by(gene)`
+[1] "using archr.get.cells.grid. A similar function is get.cell.list()"
+[1] "using these samples for filtering: \nWT_rep2\nWT_rep3\nKO_rep3"
+converting counts to integer mode
+[1] "using median locfunc"
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+Joining with `by = join_by(gene)`
+[1] "using archr.get.cells.grid. A similar function is get.cell.list()"
+[1] "using these samples for filtering: \nWT_rep2\nWT_rep3\nKO_rep3"
+converting counts to integer mode
+[1] "using median locfunc"
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+Joining with `by = join_by(gene)`
+[1] "using archr.get.cells.grid. A similar function is get.cell.list()"
+[1] "using these samples for filtering: \nWT_rep2\nWT_rep3\nKO_rep3"
+converting counts to integer mode
+[1] "using median locfunc"
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+Joining with `by = join_by(gene)`
+[1] "using archr.get.cells.grid. A similar function is get.cell.list()"
+[1] "using these samples for filtering: \nWT_rep2\nWT_rep3\nKO_rep3"
+converting counts to integer mode
+[1] "using median locfunc"
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+Joining with `by = join_by(gene)`
+[1] "using archr.get.cells.grid. A similar function is get.cell.list()"
+[1] "using these samples for filtering: \nWT_rep2\nWT_rep3\nKO_rep3"
+converting counts to integer mode
+[1] "using median locfunc"
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+Joining with `by = join_by(gene)`
+using 'ashr' for LFC shrinkage. If used in published research, please cite:
+    Stephens, M. (2016) False discovery rates: a new deal. Biostatistics, 18:2.
+    https://doi.org/10.1093/biostatistics/kxw041
+Joining with `by = join_by(gene)`
+using 'ashr' for LFC shrinkage. If used in published research, please cite:
+    Stephens, M. (2016) False discovery rates: a new deal. Biostatistics, 18:2.
+    https://doi.org/10.1093/biostatistics/kxw041
+Joining with `by = join_by(gene)`
+using 'ashr' for LFC shrinkage. If used in published research, please cite:
+    Stephens, M. (2016) False discovery rates: a new deal. Biostatistics, 18:2.
+    https://doi.org/10.1093/biostatistics/kxw041
+Joining with `by = join_by(gene)`
+using 'ashr' for LFC shrinkage. If used in published research, please cite:
+    Stephens, M. (2016) False discovery rates: a new deal. Biostatistics, 18:2.
+    https://doi.org/10.1093/biostatistics/kxw041
+Joining with `by = join_by(gene)`
+using 'ashr' for LFC shrinkage. If used in published research, please cite:
+    Stephens, M. (2016) False discovery rates: a new deal. Biostatistics, 18:2.
+    https://doi.org/10.1093/biostatistics/kxw041
+Joining with `by = join_by(gene)`
+using 'ashr' for LFC shrinkage. If used in published research, please cite:
+    Stephens, M. (2016) False discovery rates: a new deal. Biostatistics, 18:2.
+    https://doi.org/10.1093/biostatistics/kxw041
+Joining with `by = join_by(gene)`
+using 'ashr' for LFC shrinkage. If used in published research, please cite:
+    Stephens, M. (2016) False discovery rates: a new deal. Biostatistics, 18:2.
+    https://doi.org/10.1093/biostatistics/kxw041
+Joining with `by = join_by(gene)`
+using 'ashr' for LFC shrinkage. If used in published research, please cite:
+    Stephens, M. (2016) False discovery rates: a new deal. Biostatistics, 18:2.
+    https://doi.org/10.1093/biostatistics/kxw041
+Joining with `by = join_by(gene)`
+using 'ashr' for LFC shrinkage. If used in published research, please cite:
+    Stephens, M. (2016) False discovery rates: a new deal. Biostatistics, 18:2.
+    https://doi.org/10.1093/biostatistics/kxw041
+Joining with `by = join_by(gene)`
+Warning messages:
+1: In DESeqDataSet(se, design = design, ignoreRank) :
+  some variables in design formula are characters, converting to factors
+2: In DESeqDataSet(se, design = design, ignoreRank) :
+  some variables in design formula are characters, converting to factors
+3: In DESeqDataSet(se, design = design, ignoreRank) :
+  some variables in design formula are characters, converting to factors
+4: In DESeqDataSet(se, design = design, ignoreRank) :
+  some variables in design formula are characters, converting to factors
+5: In DESeqDataSet(se, design = design, ignoreRank) :
+  some variables in design formula are characters, converting to factors
+6: In DESeqDataSet(se, design = design, ignoreRank) :
+  some variables in design formula are characters, converting to factors
+7: In DESeqDataSet(se, design = design, ignoreRank) :
+  some variables in design formula are characters, converting to factors
+8: In DESeqDataSet(se, design = design, ignoreRank) :
+  some variables in design formula are characters, converting to factors
+9: In DESeqDataSet(se, design = design, ignoreRank) :
+  some variables in design formula are characters, converting to factors
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//summary//seurat_clusters_0_de.genes.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//summary//seurat_clusters_0_up.genes.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//summary//seurat_clusters_0_down.genes.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//summary//seurat_clusters_1_de.genes.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//summary//seurat_clusters_1_up.genes.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//summary//seurat_clusters_1_down.genes.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//summary//seurat_clusters_2_de.genes.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//summary//seurat_clusters_2_up.genes.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//summary//seurat_clusters_2_down.genes.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//summary//seurat_clusters_3_de.genes.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//summary//seurat_clusters_3_up.genes.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//summary//seurat_clusters_3_down.genes.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//summary//seurat_clusters_4_de.genes.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//summary//seurat_clusters_4_up.genes.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//summary//seurat_clusters_4_down.genes.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//summary//seurat_clusters_5_de.genes.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//summary//seurat_clusters_5_up.genes.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//summary//seurat_clusters_5_down.genes.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//summary//seurat_clusters_6_de.genes.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//summary//seurat_clusters_6_up.genes.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//summary//seurat_clusters_6_down.genes.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//summary//seurat_clusters_12_de.genes.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//summary//seurat_clusters_12_up.genes.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//summary//seurat_clusters_12_down.genes.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//summary//seurat_clusters_13_de.genes.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//summary//seurat_clusters_13_up.genes.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//summary//seurat_clusters_13_down.genes.bed.gz
+Processing cluster: seurat_clusters_0
+Processing cluster: seurat_clusters_1
+Processing cluster: seurat_clusters_3
+Processing cluster: seurat_clusters_4
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//homer/seurat_clusters_0/res.exp_padj_top_1000_up//prep//fg.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//homer/seurat_clusters_1/res.exp_padj_top_1000_up//prep//fg.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//homer/seurat_clusters_3/res.exp_padj_top_1000_up//prep//fg.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//homer/seurat_clusters_4/res.exp_padj_top_1000_up//prep//fg.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//homer/seurat_clusters_1/res.exp_padj_top_1000_up//prep//bg.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//homer/seurat_clusters_0/res.exp_padj_top_1000_up//prep//bg.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//homer/seurat_clusters_3/res.exp_padj_top_1000_up//prep//bg.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//homer/seurat_clusters_4/res.exp_padj_top_1000_up//prep//bg.bed.gz
+/bar/cfan/software/homer/bin/findMotifsGenome.pl day9_only/sth/da_v1//homer/seurat_clusters_1/res.exp_padj_top_1000_up//prep//fg.bed /bar/cfan/genomes/mm10/mm10.fa day9_only/sth/da_v1//homer/seurat_clusters_1/res.exp_padj_top_1000_up//homer/ -size given -p 1 -nomotif  -bg day9_only/sth/da_v1//homer/seurat_clusters_1/res.exp_padj_top_1000_up//prep//bg.bed  1>day9_only/sth/da_v1//homer/seurat_clusters_1/res.exp_padj_top_1000_up//homer//stdout.log 2>&1
+/bar/cfan/software/homer/bin/findMotifsGenome.pl day9_only/sth/da_v1//homer/seurat_clusters_0/res.exp_padj_top_1000_up//prep//fg.bed /bar/cfan/genomes/mm10/mm10.fa day9_only/sth/da_v1//homer/seurat_clusters_0/res.exp_padj_top_1000_up//homer/ -size given -p 1 -nomotif  -bg day9_only/sth/da_v1//homer/seurat_clusters_0/res.exp_padj_top_1000_up//prep//bg.bed  1>day9_only/sth/da_v1//homer/seurat_clusters_0/res.exp_padj_top_1000_up//homer//stdout.log 2>&1
+/bar/cfan/software/homer/bin/findMotifsGenome.pl day9_only/sth/da_v1//homer/seurat_clusters_3/res.exp_padj_top_1000_up//prep//fg.bed /bar/cfan/genomes/mm10/mm10.fa day9_only/sth/da_v1//homer/seurat_clusters_3/res.exp_padj_top_1000_up//homer/ -size given -p 1 -nomotif  -bg day9_only/sth/da_v1//homer/seurat_clusters_3/res.exp_padj_top_1000_up//prep//bg.bed  1>day9_only/sth/da_v1//homer/seurat_clusters_3/res.exp_padj_top_1000_up//homer//stdout.log 2>&1
+/bar/cfan/software/homer/bin/findMotifsGenome.pl day9_only/sth/da_v1//homer/seurat_clusters_4/res.exp_padj_top_1000_up//prep//fg.bed /bar/cfan/genomes/mm10/mm10.fa day9_only/sth/da_v1//homer/seurat_clusters_4/res.exp_padj_top_1000_up//homer/ -size given -p 1 -nomotif  -bg day9_only/sth/da_v1//homer/seurat_clusters_4/res.exp_padj_top_1000_up//prep//bg.bed  1>day9_only/sth/da_v1//homer/seurat_clusters_4/res.exp_padj_top_1000_up//homer//stdout.log 2>&1
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//homer/seurat_clusters_1/res.exp_padj_top_1000_down//prep//fg.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//homer/seurat_clusters_0/res.exp_padj_top_1000_down//prep//fg.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//homer/seurat_clusters_1/res.exp_padj_top_1000_down//prep//bg.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//homer/seurat_clusters_0/res.exp_padj_top_1000_down//prep//bg.bed.gz
+/bar/cfan/software/homer/bin/findMotifsGenome.pl day9_only/sth/da_v1//homer/seurat_clusters_1/res.exp_padj_top_1000_down//prep//fg.bed /bar/cfan/genomes/mm10/mm10.fa day9_only/sth/da_v1//homer/seurat_clusters_1/res.exp_padj_top_1000_down//homer/ -size given -p 1 -nomotif  -bg day9_only/sth/da_v1//homer/seurat_clusters_1/res.exp_padj_top_1000_down//prep//bg.bed  1>day9_only/sth/da_v1//homer/seurat_clusters_1/res.exp_padj_top_1000_down//homer//stdout.log 2>&1
+/bar/cfan/software/homer/bin/findMotifsGenome.pl day9_only/sth/da_v1//homer/seurat_clusters_0/res.exp_padj_top_1000_down//prep//fg.bed /bar/cfan/genomes/mm10/mm10.fa day9_only/sth/da_v1//homer/seurat_clusters_0/res.exp_padj_top_1000_down//homer/ -size given -p 1 -nomotif  -bg day9_only/sth/da_v1//homer/seurat_clusters_0/res.exp_padj_top_1000_down//prep//bg.bed  1>day9_only/sth/da_v1//homer/seurat_clusters_0/res.exp_padj_top_1000_down//homer//stdout.log 2>&1
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//homer/seurat_clusters_3/res.exp_padj_top_1000_down//prep//fg.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//homer/seurat_clusters_3/res.exp_padj_top_1000_down//prep//bg.bed.gz
+/bar/cfan/software/homer/bin/findMotifsGenome.pl day9_only/sth/da_v1//homer/seurat_clusters_3/res.exp_padj_top_1000_down//prep//fg.bed /bar/cfan/genomes/mm10/mm10.fa day9_only/sth/da_v1//homer/seurat_clusters_3/res.exp_padj_top_1000_down//homer/ -size given -p 1 -nomotif  -bg day9_only/sth/da_v1//homer/seurat_clusters_3/res.exp_padj_top_1000_down//prep//bg.bed  1>day9_only/sth/da_v1//homer/seurat_clusters_3/res.exp_padj_top_1000_down//homer//stdout.log 2>&1
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//homer/seurat_clusters_4/res.exp_padj_top_1000_down//prep//fg.bed.gz
+https://wangftp.wustl.edu/~cfan/Baf155/day9_only/sth/da_v1//homer/seurat_clusters_4/res.exp_padj_top_1000_down//prep//bg.bed.gz
+/bar/cfan/software/homer/bin/findMotifsGenome.pl day9_only/sth/da_v1//homer/seurat_clusters_4/res.exp_padj_top_1000_down//prep//fg.bed /bar/cfan/genomes/mm10/mm10.fa day9_only/sth/da_v1//homer/seurat_clusters_4/res.exp_padj_top_1000_down//homer/ -size given -p 1 -nomotif  -bg day9_only/sth/da_v1//homer/seurat_clusters_4/res.exp_padj_top_1000_down//prep//bg.bed  1>day9_only/sth/da_v1//homer/seurat_clusters_4/res.exp_padj_top_1000_down//homer//stdout.log 2>&1
+NULL

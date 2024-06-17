@@ -1,0 +1,7 @@
+sample	dir	type	batch	rep
+WT_rep1	/bar/cfan/others/jun/Baf155/sth/count_exonOnly/WT_rep1/outs/filtered_feature_bc_matrix	WT	batch1	rep1
+KO_rep1	/bar/cfan/others/jun/Baf155/sth/count_exonOnly/KO_rep1/outs/filtered_feature_bc_matrix	KO	batch1	rep1
+WT_rep2	/bar/cfan/others/jun/Baf155/sth/count_exonOnly/WT_rep2/outs/filtered_feature_bc_matrix	WT	batch2	rep2
+KO_rep2	/bar/cfan/others/jun/Baf155/sth/count_exonOnly/KO_rep2/outs/filtered_feature_bc_matrix	KO	batch2	rep2
+WT_rep3	/bar/cfan/others/jun/Baf155/sth/count_exonOnly/WT_rep3/outs/filtered_feature_bc_matrix	WT	batch2	rep3
+KO_rep3	/bar/cfan/others/jun/Baf155/sth/count_exonOnly/KO_rep3/outs/filtered_feature_bc_matrix	KO	batch2	rep3
