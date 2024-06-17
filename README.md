@@ -3,6 +3,7 @@
 The analysis workflow heavily depends on the following packages I wrote:
 * [scFanc](https://github.com/ChangxuFan/scFanc) Release v1.0.1
 * [liteRnaSeqFanc](https://github.com/ChangxuFan/liteRnaSeqFanc) Release v1.0.1
+
 To begin analysis, you need to copy/softlink the .R files from these packages to the corresponding directories (R_scFanc, R_liteRnaSeqFanc).
 
 Although not critical, some functions in this repo might call functions from other packages I wrote, such as `utilsFanc`, `abaFanc2`, etc. These can also be found in the corresponding github repos under the account `ChangxuFan`. 
