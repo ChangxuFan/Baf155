@@ -20,5 +20,5 @@ In addition, some stand-alone scripts (`*.R`, `*.sh`) are used, and can be found
 * We noticed that the doublet detection process has some stochasticity: if you run it twice, the doublet scores will not be exactly the same, although they are quite similar. Therefore, after doublet filtering, you are likely to end up with a slightly different set of cells. Unfortunately, such slight differences might cause ArchR to assign different cluster names. We offer the integrated Seurat/ArchR objects (referred to as `soi` and `aoi` in the code, respectively) at GSE240585, which contain the cells we obtained after our run of doublet filtering, and their associated cluster assignments.
 
 ## About dead symlinks:
-* R_scFanc and R_liteRnaSeqFanc links to the /R directory you can download from the corresponding repositories for these R packages, as mentioned above.
+* R_scFanc and R_liteRnaSeqFanc link to the /R directories under scFanc and liteRnaSeqFanc, respectively. You can download them from the corresponding repositories, as mentioned above.
 * Other dead symlinks point to large files/directories that github cannot handle. But you can generate them by running the code.
