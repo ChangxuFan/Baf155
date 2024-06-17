@@ -7,6 +7,7 @@ Sequence of analyses:
 * Scripts under `fast_check` were run first to perform clustering on a single-sample basis
 * Then, scripts under `sync_all` were used to generate R objects containing all samples with batch correction
 * `day9_only` contains scripts that generated all figures in the paper. Although it's named "day9_only", it also contains code that generated plots for day11 post-5FU data.
+* In general, scripts should be run sequentially, with step1.1 before step1.2. However, this is not true for scripts labeled "revisionx.x", because they were numbered based on reviewers' questions.
 
 Stochasticity of the pipeline:
 * We noticed that the doublet detection process has some stochasticity: if you run it twice, the doublet scores will not be exactly the same, although they are quite similar. Therefore, after doublet filtering, you are likely to end up with a slightly different set of cells. Unfortunately, such slight differences might cause ArchR to assign different cluster names. We offer the integrated Seurat/ArchR objects (referred to as `soi` and `aoi` in the code, respectively) at GSE240585, which contain the cells we obtained after our run of doublet filtering, and their associated cluster assignments.
